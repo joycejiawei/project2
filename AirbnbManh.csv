@@ -1,0 +1,613 @@
+city,house_title,house_type,price,owner_name,no_of_reviews,rating,occupancy
+Manhattan,A Beautiful Brownstone Apartment,Entire apartment,$91 ,Michael,279 Reviews,5,"['4 guests', 'Studio', '3 beds', '1 bath', '\U000f0004\n474 Reviews', '\U000f0019\nVerified']"
+Manhattan,YOUR DREAM SUITE IN MANHATTAN,Private room in apartment,$87 ,Marilyn,137 Reviews,4,"['4 guests', '1 bedroom', '2 beds', '1 private bath', '\U000f0004\n544 Reviews', '\U000f0019\nVerified']"
+Manhattan,Manhattan's Best Deal!,Entire apartment,$165 ,Adrianne,272 Reviews,4.5,"['6 guests', '2 bedrooms', '5 beds', '1 bath', '\U000f0004\n410 Reviews', '\U000f0019\nVerified']"
+Manhattan,Spacious room near Times Square,Private room in apartment,$88 ,Stephanie,118 Reviews,4.5,"['4 guests', '1 bedroom', '1 bed', '1 shared bath', '\U000f0004\n257 Reviews', '\U000f0019\nVerified']"
+Manhattan,Entire Apartment Steps from Times Square!!! For 4!,Entire apartment,$99 ,Theresa,162 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n398 Reviews', '\U000f0019\nVerified']"
+Manhattan,Modern & Trendy 2-Bedroom 1 Bath Lower Manhattan,Entire apartment,$90 ,Alex,117 Reviews,5,"['5 guests', '2 bedrooms', '3 beds', '1 bath', '\U000f0004\n118 Reviews', '\U000f0019\nVerified']"
+Manhattan,LARGE 2 Bedroom Midtown Manhattan Apartment!,Entire apartment,$124 ,Ethan,4 Reviews,5,"['4 guests', '2 bedrooms', '2 beds', '1 bath', '\U000f0004\n4 Reviews', '\U000f0019\nVerified']"
+Manhattan,Massive DUPLEX 2BR & 2BATH East Village,Entire apartment,$198 ,Seith,340 Reviews,4,"['8 guests', '2 bedrooms', '4 beds', '2 baths', '\U000f0004\n939 Reviews', '\U000f1101\n1 Reference', '\U000f0019\nVerified']"
+Manhattan,Luxury Central Park Apartment close to everything,Entire apartment,$199 ,Bozhena,125 Reviews,4.5,"['4 guests', '1 bedroom', '4 beds', '1 bath', '\U000f0004\n337 Reviews', '\U000f0019\nVerified']"
+Manhattan,GREAT AND STYLISH APARTMENT! AMAZING LOCATION!,Entire apartment,$110 ,M. Alejandro,100 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n108 Reviews', '\U000f0019\nVerified']"
+Manhattan,Big renovated studio up to 4 people in Manhattan,Entire apartment,$95 ,Gloria,20 Reviews,4.5,"['4 guests', 'Studio', '1 bed', '1 bath', '\U000f0004\n20 Reviews', '\U000f0019\nVerified']"
+Manhattan,GORGEOUS 1 BDR PRIME HELL'S KITCHEN,Entire apartment,$134 ,Konstantin,261 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n263 Reviews', '\U000f0019\nVerified']"
+Manhattan,Spacious Room in East Village/NoHo,Private room in apartment,$129 ,Sne,381 Reviews,5,"['3 guests', '1 bedroom', '1 bed', '1 shared bath', '\U000f0004\n382 Reviews', '\U000f0019\nVerified']"
+Manhattan,Manhattan Lux Loft.Like.Love.Lots.Look !,Private room in loft,$271 ,Carol,526 Reviews,5,"['5 guests', '1 bedroom', '3 beds', '1 private bath', '\U000f0004\n533 Reviews', '\U000f1101\n5 References', '\U000f0019\nVerified']"
+Manhattan,Cozy Hell's Kitchen/ Time Square Apartment- 2 BRM,Entire apartment,$145 ,Nivea And Jill,122 Reviews,4.5,"['8 guests', '2 bedrooms', '4 beds', '1 bath', '\U000f0004\n124 Reviews', '\U000f0019\nVerified']"
+Manhattan,"2 Blocks from Times Square, Centrally Located!",Entire apartment,$175 ,Astor,155 Reviews,4.5,"['5 guests', 'Studio', '4 beds', '1 bath', '\U000f0004\n214 Reviews', '\U000f0019\nVerified']"
+Manhattan,Unique Loft GREAT location,Entire apartment,$189 ,Lee,166 Reviews,4.5,"['6 guests', 'Studio', '3 beds', '1 bath', '\U000f0004\n210 Reviews', '\U000f0019\nVerified']"
+Manhattan,★Unique two bedroom on 2nd Avenue★,Entire apartment,$150 ,Zev,281 Reviews,4.5,"['5 guests', '2 bedrooms', '3 beds', '1 bath', '\U000f0004\n613 Reviews', '\U000f0019\nVerified']"
+Manhattan,Best of the East Village Cozy 2 Bedroom,Entire apartment,$100 ,Katya,203 Reviews,4.5,"['5 guests', '2 bedrooms', '2 beds', '1 bath', '\U000f0004\n206 Reviews', '\U000f0019\nVerified']"
+Manhattan,A Unique studio apartment,Entire apartment,$140 ,Michael,195 Reviews,5,"['3 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n474 Reviews', '\U000f0019\nVerified']"
+Manhattan,Modern Condo in Midtown,Private room in apartment,$159 ,Welcome To My Place,311 Reviews,5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n314 Reviews', '\U000f0019\nVerified']"
+Manhattan,Cozy Apartment Near Times Square,Entire apartment,$135 ,Mike,225 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n276 Reviews', '\U000f0019\nVerified']"
+Manhattan,Amazingly well located 2 bedroom/2 bath apartment,Entire apartment,$125 ,John,39 Reviews,4.5,"['6 guests', '2 bedrooms', '3 beds', '2 baths', '\U000f0004\n39 Reviews']"
+Manhattan,RENOVATED/BEST LOCATION in MIDTOWN,Private room in townhouse,$190 ,Marta,162 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n307 Reviews', '\U000f0019\nVerified']"
+Manhattan,Near Times Square and Hell's Kitchen,Private room in apartment,$140 ,Claude,343 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n347 Reviews', '\U000f0019\nVerified']"
+Manhattan,Fun Spacious Midtown Apt near U.N. & Central Park,Entire apartment,$175 ,Christian,129 Reviews,5,"['5 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n135 Reviews', '\U000f0019\nVerified']"
+Manhattan,Elegant Private Apartment in a Historic Brownstone,Private room in townhouse,$108 ,Jacob,104 Reviews,5,"['4 guests', 'Studio', '2 beds', '1 private bath', '\U000f0004\n874 Reviews', '\U000f0019\nVerified']"
+Manhattan,Cozy Apartment Next To Central Park,Entire apartment,$150 ,Lenny,103 Reviews,4.5,"['5 guests', '2 bedrooms', '2 beds', '1 bath', '\U000f0004\n142 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Manhattan, Room w/ 2 Beds Near Central Park &Metro",Private room in house,$99 ,Joo,143 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n987 Reviews', '\U000f0019\nVerified']"
+Manhattan,Miltons place,Entire apartment,$90 ,Milton,8 Reviews,5,"['4 guests', 'Studio', '0 beds', '1 bath', '\U000f0004\n18 Reviews', '\U000f0019\nVerified']"
+Manhattan,Super well located 2 BR 2 bath apt in Manhattan,Entire apartment,$150 ,Gina,18 Reviews,4.5,"['8 guests', '2 bedrooms', '4 beds', '2 baths', '\U000f0004\n18 Reviews', '\U000f0019\nVerified']"
+Manhattan,Modernly Designed studIo in turtle bay area~402~,Entire apartment,$105 ,Lior,101 Reviews,4.5,"['4 guests', 'Studio', '3 beds', '1 bath', '\U000f0004\n134 Reviews', '\U000f0019\nVerified']"
+Manhattan,Cute studio in the Upper West Side.,Entire apartment,$109 ,Ai,9 Reviews,5,"['3 guests', 'Studio', '1 bed', '1 bath', '\U000f0004\n25 Reviews', '\U000f0019\nVerified']"
+Manhattan,HELL'S KITCHEN STUDIO for 2 or 3,Entire apartment,$135 ,Rod,204 Reviews,4.5,"['3 guests', 'Studio', '1 bed', '1 bath', '\U000f0004\n224 Reviews', '\U000f1101\n1 Reference', '\U000f0019\nVerified']"
+Manhattan,SPACIOUS SCANDINAVIAN DESIGNER APT/Luxury building,Entire apartment,$97 ,Teresa,20 Reviews,5,"['6 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n98 Reviews', '\U000f0019\nVerified']"
+Manhattan,Modern Studio in the center of Manhattan!,Entire apartment,$95 ,Olivier,83 Reviews,4.5,"['4 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n83 Reviews', '\U000f0019\nVerified']"
+Manhattan,Soho Apartment Stylish & Central,Entire condominium,$190 ,Arne,346 Reviews,4.5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n851 Reviews', '\U000f0019\nVerified']"
+Manhattan,Clean and comfortable 3 person private room,Private room in apartment,$80 ,Kristy,88 Reviews,4.5,"['3 guests', '1 bedroom', '3 beds', '1.5 shared baths', '\U000f0004\n286 Reviews', '\U000f1101\n3 References', '\U000f0019\nVerified']"
+Manhattan,"Manhattan, Clean Room Near Central Park & Subway",Private room in house,$79 ,Joo,150 Reviews,5,"['3 guests', '1 bedroom', '3 beds', '2 shared baths', '\U000f0004\n987 Reviews', '\U000f0019\nVerified']"
+Manhattan,Stunning studio APT in the heart of NYC,Entire apartment,$140 ,Eli,103 Reviews,4.5,"['3 guests', 'Studio', '3 beds', '1 bath', '\U000f0004\n105 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Classic Brownstone, a Private Studio Apartment",Private room in townhouse,$134 ,Jacob,132 Reviews,4.5,"['5 guests', 'Studio', '2 beds', '1 private bath', '\U000f0004\n874 Reviews', '\U000f0019\nVerified']"
+Manhattan,Sunny bedroom with Park views in East Village!,Private room in apartment,$122 ,Alfredo,177 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n457 Reviews', '\U000f1101\n1 Reference', '\U000f0019\nVerified']"
+Manhattan,NEW! BEST LOCATION !!! 3min to Rockefeller Plaza,Private room in townhouse,$190 ,Marta,145 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '1 private bath', '\U000f0004\n307 Reviews', '\U000f0019\nVerified']"
+Manhattan,Nice studio in Midtown Manhattan,Entire apartment,$219 ,Zahid,162 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n162 Reviews', '\U000f0019\nVerified']"
+Manhattan,Bright Cozy Chinatown Studio Apt.,Entire apartment,$160 ,Patricia,272 Reviews,5,"['3 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n275 Reviews', '\U000f0019\nVerified']"
+Manhattan,Clean style apt. Central midtwn near Javits,Private room in apartment,$164 ,CZ Casa,178 Reviews,4.5,"['4 guests', '1 bedroom', '1 bed', '1 shared bath', '\U000f0004\n179 Reviews', '\U000f0019\nVerified']"
+Manhattan,Brownstone studio near central park,Entire apartment,$150 ,Lucia,125 Reviews,4.5,"['3 guests', 'Studio', '1 bed', '1 bath', '\U000f0004\n282 Reviews', '\U000f0019\nVerified']"
+Manhattan,Harlem Monthly Rental True Two Bedroom 1 Bath,Entire townhouse,$99 ,Enid,3 Reviews,4.5,"['6 guests', '2 bedrooms', '2 beds', '1 bath', '\U000f0004\n136 Reviews', '\U000f0019\nVerified']"
+Manhattan,Sunny Private Studio-Apartment,Entire apartment,$119 ,Alexandra,129 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n304 Reviews', '\U000f0019\nVerified']"
+Manhattan,★HUGE beautiful E. Villager 2nd Av★,Entire apartment,$150 ,Zev,304 Reviews,4.5,"['5 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n613 Reviews', '\U000f0019\nVerified']"
+Manhattan,Cozy front room in a 2 bedroom family apt near CU,Private room in apartment,$70 ,Anna & Keith,114 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n116 Reviews', '\U000f0019\nVerified']"
+Manhattan,Great apartment in the heart of Manhattan!,Entire apartment,$160 ,Jamie And John,109 Reviews,4.5,"['5 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n547 Reviews']"
+Manhattan,THE SMALL CHATEAU IN THE TREES,Private room in apartment,$200 ,Stefanie Elizabeth,189 Reviews,5,"['3 guests', '1 bedroom', '2 beds', '1 private bath', '\U000f0004\n193 Reviews']"
+Manhattan,Clean & sunny private room (fits 3),Private room in apartment,$77 ,Kristy,64 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1.5 shared baths', '\U000f0004\n286 Reviews', '\U000f1101\n3 References', '\U000f0019\nVerified']"
+Manhattan,Downtown Airy Designer Loft,Entire apartment,$179 ,Jaclyn,171 Reviews,5,"['6 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n172 Reviews', '\U000f0019\nVerified']"
+Manhattan,Modern Central Park Apartment close to everything,Entire apartment,$199 ,Bozhena,150 Reviews,4.5,"['4 guests', '1 bedroom', '4 beds', '1 bath', '\U000f0004\n337 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Manhattan East Village, lower East Side",Entire apartment,$157 ,Marie L,126 Reviews,5,"['3 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n155 Reviews', '\U000f0019\nVerified']"
+Manhattan,Harlem Monthly Rental True Two Bedroom 1 Bath,Entire townhouse,$99 ,Enid,3 Reviews,4.5,"['6 guests', '2 bedrooms', '2 beds', '1 bath', '\U000f0004\n136 Reviews', '\U000f0019\nVerified']"
+Manhattan,Luxury! Rooftop Pool! Empire State Building View!,Entire condominium,$189 ,Emily,5 Reviews,5,"['5 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n9 Reviews', '\U000f0019\nVerified']"
+Manhattan,New Private studio-apartment,Entire apartment,$100 ,Alexandra,59 Reviews,4.5,"['4 guests', 'Studio', '0 beds', '1 bath', '\U000f0004\n304 Reviews', '\U000f0019\nVerified']"
+Manhattan,Middle of center of New York City!,Entire apartment,$155 ,Anders,138 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n609 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Cozy, Luxury, Modern Stone Chelsea Apartment",Entire apartment,$127 ,Alberto,61 Reviews,5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n112 Reviews', '\U000f0019\nVerified']"
+Manhattan,WeLive Wall Street -- Studio+,Entire serviced apartment,$229 ,WeWork,233 Reviews,5,"['3 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n506 Reviews', '\U000f0019\nVerified']"
+Manhattan,Cute Apartment in Hell's Kitchen,Entire apartment,$200 ,Jennifer,190 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n190 Reviews']"
+Manhattan,"Manhattan, Room w/3 Beds Near Metro & Central Park",Private room in apartment,$95 ,Joo,129 Reviews,5,"['4 guests', '1 bedroom', '3 beds', '1 shared bath', '\U000f0004\n987 Reviews', '\U000f0019\nVerified']"
+Manhattan,Luxury Miami style apartment,Entire apartment,$111 ,Anthony,,,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0019\nVerified']"
+Manhattan,Luxe Tuscan Suite Private Room,Private room in apartment,$76 ,Anne,228 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n550 Reviews', '\U000f0019\nVerified']"
+Manhattan,Midtown Sleep 6 Central Convenience,Entire apartment,$177 ,Adam,228 Reviews,5,"['6 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n229 Reviews', '\U000f0019\nVerified']"
+Manhattan,CONFI & LOVELY APARTMENT LOWER EAST!WALK EVERYWERE,Entire apartment,$120 ,Antina,96 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n497 Reviews']"
+Manhattan,Central Park View-Free Museum Tickets-Private Room,Private room in apartment,$100 ,Omar,76 Reviews,5,"['3 guests', '1 bedroom', '3 beds', '1 private bath', '\U000f0004\n102 Reviews', '\U000f0019\nVerified']"
+Manhattan,BEAUTIFUL 1 BEDROOM Heart of Upper East Side!!,Entire apartment,$70 ,Albina,21 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n22 Reviews', '\U000f0019\nVerified']"
+Manhattan,Spacious Luxury Wall Street Suite,Entire apartment,$209 ,Vic,116 Reviews,4.5,"['5 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n116 Reviews', '\U000f0019\nVerified']"
+Manhattan,BEAUTIFUL 1 BEDROOM Heart of Upper East Side!!,Entire apartment,$70 ,Albina,21 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n22 Reviews', '\U000f0019\nVerified']"
+Manhattan,BEST LOCATION in MANHATTAN!,Entire apartment,$164 ,Regina Kira,186 Reviews,5,"['3 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n194 Reviews', '\U000f0019\nVerified']"
+Manhattan,NICE 1 BDR- TIMES SQ/MIDTOWN- 4 ppl,Entire apartment,$120 ,Dc,169 Reviews,4.5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n342 Reviews', '\U000f0019\nVerified']"
+Manhattan,Spacious Luxury Wall Street Suite,Entire apartment,$209 ,Vic,116 Reviews,4.5,"['5 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n116 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Manhattan Room w/2 beds, near Central Park & Metro",Private room in apartment,$95 ,Joo,94 Reviews,5,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n987 Reviews', '\U000f0019\nVerified']"
+Manhattan,"BIG ONE BEDROOM LOFT!, COZY&CONFI Live Manhattan!",Entire loft,$180 ,Matt,101 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n175 Reviews', '\U000f0019\nVerified']"
+Manhattan,AMAZING DESIGNER TIMES SQUARE APARTMENT- BEAUTIFUL,Entire apartment,$219 ,Charly,95 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n95 Reviews', '\U000f0019\nVerified']"
+Manhattan,1 BEDROOM APARTMENT IN UPPER EAST,Entire apartment,$177 ,Francesco,224 Reviews,4,"['4 guests', '2 bedrooms', '1 bed', '1 bath', '\U000f0004\n261 Reviews', '\U000f0019\nVerified']"
+Manhattan,"1 BED ROOM ACCOMMODATION 4, 5 GUEST",Entire apartment,$145 ,"Manny , Job",189 Reviews,4.5,"['5 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n189 Reviews', '\U000f0019\nVerified']"
+Manhattan,SPACIOUS SUNNY STUDIO 5MIN TIMES SQ,Entire apartment,$175 ,Lola,170 Reviews,4.5,"['3 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n170 Reviews', '\U000f0019\nVerified']"
+Manhattan,Midtown great location private Apt,Entire apartment,$151 ,George,204 Reviews,4.5,"['3 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n205 Reviews']"
+Manhattan,Modern 1 bedroom 5min Cental Park,Entire apartment,$169 ,Lily,164 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n166 Reviews', '\U000f0019\nVerified']"
+Manhattan,2 floor Apt w 300sqft Terrace,Entire apartment,$195 ,Evan,66 Reviews,4,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n72 Reviews', '\U000f1101\n1 Reference', '\U000f0019\nVerified']"
+Manhattan,Traveller's Flat – Hell's Kitchen,Entire apartment,$180 ,Marco,96 Reviews,5,"['6 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n360 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Manhattan, Gigantic Rm Nearby Central Park & Metro",Private room in house,$109 ,Joo,170 Reviews,5,"['5 guests', '1 bedroom', '3 beds', '2 shared baths', '\U000f0004\n987 Reviews', '\U000f0019\nVerified']"
+Manhattan,True Two Bedroom Apartment in Lower Manhattan,Entire apartment,$160 ,Arielle,212 Reviews,4.5,"['4 guests', '2 bedrooms', '2 beds', '1 bath', '\U000f0004\n255 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Two double beds, New York, Chinatown, #2",Private room in apartment,$130 ,Amiee,71 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n175 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Big, cozy & chic! 1BR Apt in Harlem",Entire apartment,$100 ,Calatayud Family,183 Reviews,5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n275 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Two double beds, New York, Chinatown, #2",Private room in apartment,$130 ,Amiee,71 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n175 Reviews', '\U000f0019\nVerified']"
+Manhattan,Best of SOHO Gorgeous 2 bedroom,Entire condominium,$275 ,Arne,343 Reviews,4.5,"['5 guests', '2 bedrooms', '2 beds', '1 bath', '\U000f0004\n851 Reviews', '\U000f0019\nVerified']"
+Manhattan,One Bedroom Mini studio - Free WIFI,Entire apartment,$140 ,Nazleen,190 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n199 Reviews', '\U000f0019\nVerified']"
+Manhattan,Charming Bedroom in hip Lower East Side!,Private room in apartment,$65 ,Angie,114 Reviews,4,"['3 guests', '1 bedroom', '1 bed', '1 shared bath', '\U000f0004\n258 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Big, cozy & chic! 1BR Apt in Harlem",Entire apartment,$100 ,Calatayud Family,183 Reviews,5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n275 Reviews', '\U000f0019\nVerified']"
+Manhattan,Huge 5BR Townhouse - LEGAL NYC B&B!,Entire townhouse,$300 ,Elizabeth,136 Reviews,5,"['13 guests', '5 bedrooms', '6 beds', '2.5 baths', '\U000f0004\n137 Reviews', '\U000f0019\nVerified']"
+Manhattan,Cozy Private studio-apartment,Entire apartment,$110 ,Irina,55 Reviews,5,"['4 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n55 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Brownstone Sanctuary, a Private Studio Apartment",Private room in townhouse,$124 ,Jacob,128 Reviews,4.5,"['4 guests', '1 bedroom', '3 beds', '1 private bath', '\U000f0004\n874 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Gorgeous Space, Industrial NYC Apt",Entire apartment,$149 ,Jetsan,259 Reviews,4,"['8 guests', '2 bedrooms', '5 beds', '1 bath', '\U000f0004\n569 Reviews', '\U000f1101\n2 References', '\U000f0019\nVerified']"
+Manhattan,AMAZING 1 BR- TIME SQUARE-SLEEPS 4,Entire apartment,$200 ,E. M.,324 Reviews,4.5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n1233 Reviews', '\U000f1101\n1 Reference', '\U000f0019\nVerified']"
+Manhattan,Home Sweet Harlem,Entire apartment,$130 ,Nykeisha,101 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n101 Reviews', '\U000f0019\nVerified']"
+Manhattan,Sweet 1-Bedroom in Upper East Side by Central Park,Entire apartment,$130 ,Chuck,111 Reviews,4.5,"['5 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n119 Reviews', '\U000f0019\nVerified']"
+Manhattan,Beautiful private studio near central park,Entire apartment,$150 ,Lucia,151 Reviews,4.5,"['3 guests', 'Studio', '1 bed', '1 bath', '\U000f0004\n282 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Walk everywhere, See everything! 2BR Midtown West",Private room in apartment,$150 ,Julien,98 Reviews,5,"['7 guests', '2 bedrooms', '3 beds', '1 private bath', '\U000f0004\n116 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Manhattan, X Large Rm Near Central Park and Metro",Private room in apartment,$109 ,Joo,157 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n987 Reviews', '\U000f0019\nVerified']"
+Manhattan,Cozy Studio Apartment 2 Beds on Wall Street,Entire apartment,$173 ,Jon,144 Reviews,5,"['4 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n144 Reviews', '\U000f0019\nVerified']"
+Manhattan,Nice Private Studio Apartment,Entire apartment,$120 ,Alexandra,116 Reviews,4.5,"['4 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n304 Reviews', '\U000f0019\nVerified']"
+Manhattan,Manhattan Midtown West Cozy&Modern,Entire apartment,$185 ,Al,246 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n298 Reviews', '\U000f0019\nVerified']"
+Manhattan,Victorian Sanctuary in a Historic Brownstone,Private room in townhouse,$98 ,Jacob,83 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n874 Reviews', '\U000f0019\nVerified']"
+Manhattan,Charming One Bed Room Apartment,Entire apartment,$145 ,Olga,162 Reviews,4,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n162 Reviews', '\U000f0019\nVerified']"
+Manhattan,Private bedroom with queen bed and single bed.,Private room in apartment,$76 ,Kate,92 Reviews,4,"['3 guests', '1 bedroom', '2 beds', '1 private bath', '\U000f0004\n255 Reviews', '\U000f0019\nVerified']"
+Manhattan,Your Stunning Vacation Apartment!,Entire apartment,$124 ,Will,308 Reviews,4.5,"['16+ guests', '2 bedrooms', '2 beds', '1 bath', '\U000f0004\n343 Reviews', '\U000f1101\n9 References', '\U000f0019\nVerified']"
+Manhattan,Classic 3 Bedroom Upper West Side Apartment,Entire apartment,$140 ,Yaron,1 Review,,"['6 guests', '3 bedrooms', '3 beds', '1.5 baths', '\U000f0004\n2 Reviews', '\U000f0019\nVerified']"
+Manhattan,❤️ Furnished One Bedroom with Terrace!! ★★★★★,Entire apartment,$149 ,Mark,95 Reviews,5,"['4 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n102 Reviews', '\U000f0019\nVerified']"
+Manhattan,Centrally Located Comfy 2BR Midtown Apartment,Entire apartment,$229 ,Akon,98 Reviews,5,"['6 guests', '2 bedrooms', '3 beds', '1 bath', '\U000f0004\n98 Reviews', '\U000f0019\nVerified']"
+Manhattan,Metro-luxe Tuscan Suite Private Room,Private room in apartment,$75 ,Anne,272 Reviews,4.5,"['4 guests', '1 bedroom', '1 bed', '1 shared bath', '\U000f0004\n550 Reviews', '\U000f0019\nVerified']"
+Manhattan,Times Square NYC Apartment,Entire apartment,$149 ,Dana And Mal,143 Reviews,4.5,"['4 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n143 Reviews', '\U000f0019\nVerified']"
+Manhattan,Huge Private Bedroom/Private Bath in Times Sq/HK,Private room in apartment,$149 ,Shawn,246 Reviews,5,"['3 guests', '1 bedroom', '1 bed', '1 private bath', '\U000f0004\n372 Reviews', '\U000f1101\n3 References', '\U000f0019\nVerified']"
+Manhattan,Two real bedrooms near Central Park,Entire apartment,$179 ,Lang,195 Reviews,4,"['7 guests', '2 bedrooms', '4 beds', '1 bath', '\U000f0004\n274 Reviews']"
+Manhattan,Peaceful & Cozy 1Br Apt in Residential Harlem,Entire apartment,$115 ,Manuel,88 Reviews,5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n91 Reviews', '\U000f0019\nVerified']"
+Manhattan,Flex 2 Bedroom Apt w/ 3 Bed on Wall St (sleeps 5),Entire apartment,$209 ,Jb,142 Reviews,5,"['5 guests', '2 bedrooms', '3 beds', '1 bath', '\U000f0004\n142 Reviews', '\U000f0019\nVerified']"
+Manhattan,Spacious 2 Bedroom Lower East Side,Entire apartment,$150 ,Sandra,156 Reviews,5,"['4 guests', '2 bedrooms', '2 beds', '1 bath', '\U000f0004\n156 Reviews', '\U000f0019\nVerified']"
+Manhattan,Charming Manhattan-Midtown Studio,Entire apartment,$194 ,Roman,148 Reviews,4.5,"['3 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n152 Reviews', '\U000f0019\nVerified']"
+Manhattan,Large Private Suite in the Heart of Midtown,Room in hotel,$120 ,Stewart Hotel,3 Reviews,4,"['4 guests', '1 bedroom', '1 bed', '1 shared bath', '\U000f0004\n5 Reviews']"
+Manhattan,"Manhattan, Huge Room Near Central Park & Metro",Private room in apartment,$109 ,Joo,143 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '2 shared baths', '\U000f0004\n987 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Midtown Times Square bright room, private bath",Private room in apartment,$175 ,Troy,131 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 private bath', '\U000f0004\n434 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Midtown Times Square bright room, private bath",Private room in apartment,$175 ,Troy,131 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 private bath', '\U000f0004\n434 Reviews', '\U000f0019\nVerified']"
+Manhattan,TriBeCa 2500 Sq Ft w/ Priv Elevator,Entire loft,$500 ,Chester & Jon,431 Reviews,5,"['12 guests', '3 bedrooms', '3 beds', '2 baths', '\U000f0004\n461 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Nice apt UWS, great neighborhood, near midtown.",Private room in apartment,$74 ,Joaquin,1 Review,,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n2 Reviews', '\U000f0019\nVerified']"
+Manhattan,Sunny Artist Live/Work Apartment,Entire apartment,$185 ,Larry,152 Reviews,5,"['3 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n154 Reviews', '\U000f1101\n1 Reference', '\U000f0019\nVerified']"
+Manhattan,Vintage Loft Style Studio - Greenwich/Union Square,Entire apartment,$250 ,Gina,125 Reviews,5,"['4 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n244 Reviews', '\U000f0019\nVerified']"
+Manhattan,private bedroom w/private bathroom on Central Park,Private room in apartment,$160 ,Arlette,315 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 private bath', '\U000f0004\n580 Reviews', '\U000f1101\n2 References', '\U000f0019\nVerified']"
+Manhattan,Super cute 1 bedroom apartment close to TimeSquare,Entire apartment,$137 ,Chris And Jamie,9 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n192 Reviews', '\U000f0019\nVerified']"
+Manhattan,Private bedroom with queen bed and single bed.,Private room in apartment,$76 ,Kate,92 Reviews,4,"['3 guests', '1 bedroom', '2 beds', '1 private bath', '\U000f0004\n255 Reviews', '\U000f0019\nVerified']"
+Manhattan,Cute Room. Manhattan. 20 min train to Time Square!,Private room in apartment,$89 ,Angelica,62 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n117 Reviews', '\U000f0019\nVerified']"
+Manhattan,Oriental Room in Upper Manhattan near Central Park,Private room in apartment,$116 ,Alfred And Lau,84 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n84 Reviews', '\U000f0019\nVerified']"
+Manhattan,"NYC,Modern and Spacious Apt",Entire apartment,$140 ,Iryna,138 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n271 Reviews', '\U000f0019\nVerified']"
+Manhattan,Big Room W/2 Beds & A/C unit. 15 min to Manhattan!,Private room in apartment,$90 ,Darko,33 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n127 Reviews', '\U000f0019\nVerified']"
+Manhattan,Cozy studio perfectly located,Entire apartment,$95 ,Elia,67 Reviews,4,"['4 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n67 Reviews']"
+Manhattan,Large private bedroom 1 stop from Manhattan,Private room in condominium,,Richard,24 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '2 shared baths', '\U000f0004\n29 Reviews', '\U000f0019\nVerified']"
+Manhattan,Perfect Times Square 1 bedroom,Entire apartment,$122 ,James,118 Reviews,5,"['3 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n305 Reviews', '\U000f0019\nVerified']"
+Manhattan,Soho - Beautiful 3 Bedroom,Entire apartment,$266 ,Kathrin,220 Reviews,4.5,"['5 guests', '3 bedrooms', '3 beds', '2 baths', '\U000f0004\n221 Reviews', '\U000f0019\nVerified']"
+Manhattan,Modern Furnished Studio APT- Midtown NYC!! ~303~,Entire apartment,$140 ,Gispan,96 Reviews,4.5,"['4 guests', 'Studio', '3 beds', '1 bath', '\U000f0004\n97 Reviews', '\U000f0019\nVerified']"
+Manhattan,☆ PERFECT MANHATTAN LOCATION NEAR SUBWAY & CAFES!☆,Entire apartment,$139 ,Jenny,272 Reviews,4.5,"['4 guests', '2 bedrooms', '2 beds', '1 bath', '\U000f0004\n354 Reviews', '\U000f1101\n1 Reference', '\U000f0019\nVerified']"
+Manhattan,Best Views in Heart of Times Square,Entire apartment,$342 ,Frank,160 Reviews,5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n85 Reviews', '\U000f0019\nVerified']"
+Manhattan,Cozy 2 Bedroom APT in the Center of Herald SQ! 4R,Entire apartment,$137 ,Il Kwon,16 Reviews,4.5,"['4 guests', '2 bedrooms', '3 beds', '1 bath', '\U000f0004\n147 Reviews', '\U000f0019\nVerified']"
+Manhattan,Garden Oasis Apartment - 2 bedroom,Entire apartment,$200 ,Julia,157 Reviews,4.5,"['6 guests', '2 bedrooms', '3 beds', '1 bath', '\U000f0004\n159 Reviews', '\U000f0019\nVerified']"
+Manhattan,Quiet Soho/Nolita Garden Alcove Studio,Entire apartment,$153 ,Deeva,155 Reviews,5,"['3 guests', 'Studio', '1 bed', '1 bath', '\U000f0004\n189 Reviews', '\U000f0019\nVerified']"
+Manhattan,HUGE East Village 2 Bd w/Priv Yard,Entire condominium,$199 ,Deborah,232 Reviews,4.5,"['6 guests', '2 bedrooms', '3 beds', '1 bath', '\U000f0004\n234 Reviews', '\U000f0019\nVerified']"
+Manhattan,SPACIOUS BEDROOM AND PRIVATE BATH!!!,Private room in apartment,$140 ,Steve,232 Reviews,5,"['3 guests', '1 bedroom', '1 bed', '1 private bath', '\U000f0004\n233 Reviews', '\U000f1101\n2 References', '\U000f0019\nVerified']"
+Manhattan,A Perfect Match! The NYC All-Rounder Apartment,Entire apartment,$210 ,Suzanne,36 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n36 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Room with the balcony, fits 3!",Private room in apartment,$102 ,Simon,96 Reviews,4.5,"['3 guests', '1 bedroom', '1 bed', '1 shared bath', '\U000f0004\n219 Reviews']"
+Manhattan,Live in New York Near Central Park and Columbia U.,Entire apartment,$140 ,Mekkie,76 Reviews,5,"['4 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n84 Reviews', '\U000f0019\nVerified']"
+Manhattan,Sunny Room with Private Bath; Prime LES/Chinatown,Private room in apartment,$110 ,Tara,94 Reviews,5,"['3 guests', '1 bedroom', '1 bed', '1 private bath', '\U000f0004\n210 Reviews', '\U000f0019\nVerified']"
+Manhattan,Vibrant Brownstone Penthouse Near Central Park,Entire apartment,$152 ,John,116 Reviews,5,"['6 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n127 Reviews', '\U000f1101\n2 References', '\U000f0019\nVerified']"
+Manhattan,Columbia University/ Upper west/Steps CentralPark,Entire apartment,$90 ,Miguel,12 Reviews,5,"['8 guests', '2 bedrooms', '2 beds', '1 bath', '\U000f0004\n34 Reviews', '\U000f0019\nVerified']"
+Manhattan,Master bedroom. 20 min. train to Time Square!,Private room in apartment,$92 ,Angelica,55 Reviews,5,"['4 guests', '1 bedroom', '3 beds', '1 shared bath', '\U000f0004\n117 Reviews', '\U000f0019\nVerified']"
+Manhattan,Location Location Location!!!!,Entire apartment,$185 ,Al,167 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n168 Reviews', '\U000f0019\nVerified']"
+Manhattan,Manhattan Townhouse Apt -2 blocks to Subway,Entire apartment,$204 ,Lisa,117 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n185 Reviews', '\U000f1101\n3 References']"
+Manhattan,Cozy apartment near Central Park,Entire apartment,$203 ,Klara,95 Reviews,4.5,"['5 guests', '2 bedrooms', '3 beds', '1 bath', '\U000f0004\n101 Reviews', '\U000f0019\nVerified']"
+Manhattan,NYC Private 1BR Apartment - 116th Street,Entire apartment,$128 ,Dustin,41 Reviews,4.5,"['3 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n44 Reviews', '\U000f0019\nVerified']"
+Manhattan,Harlem Style Spacious and Sunny,Entire apartment,$154 ,M. Elizabeth,117 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n117 Reviews', '\U000f0019\nVerified']"
+Manhattan,Manhattan Townhouse Apt -2 blocks to Subway,Entire apartment,$204 ,Lisa,117 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n185 Reviews', '\U000f1101\n3 References']"
+Manhattan,Vibrant Brownstone Penthouse Near Central Park,Entire apartment,$152 ,John,116 Reviews,5,"['6 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n127 Reviews', '\U000f1101\n2 References', '\U000f0019\nVerified']"
+Manhattan,Harlem Style Spacious and Sunny,Entire apartment,$154 ,M. Elizabeth,117 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n117 Reviews', '\U000f0019\nVerified']"
+Manhattan,Sunny Two Bed in Prime Lower East Side/Chinatown:),Private room in apartment,$110 ,Tara,109 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n210 Reviews', '\U000f0019\nVerified']"
+Manhattan,Cozy midtown apt next to metro & Empire State bldg,Entire apartment,$101 ,Spencer,66 Reviews,4.5,"['3 guests', 'Studio', '1 bed', '1 bath', '\U000f0004\n66 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Apt in Little Italy/Chinatown, Lower Manhattan",Entire apartment,$180 ,Moying,23 Reviews,5,"['5 guests', '2 bedrooms', '2 beds', '1 bath', '\U000f0004\n59 Reviews', '\U000f0019\nVerified']"
+Manhattan,Comfy NYC Studio 15 Min. To Midtown,Entire apartment,$125 ,Terrence,189 Reviews,4.5,"['3 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n190 Reviews', '\U000f0019\nVerified']"
+Manhattan,STUDIO East village ❅Own bath!❅,Entire apartment,$149 ,Seith,267 Reviews,4,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n939 Reviews', '\U000f1101\n1 Reference', '\U000f0019\nVerified']"
+Manhattan,"Prime location, Renovated,Inspiring",Entire apartment,$190 ,Elena,119 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n124 Reviews', '\U000f0019\nVerified']"
+Manhattan,Huge Room in East Harlem on Madison Avenue,Private room in townhouse,$100 ,Kelvin,73 Reviews,5,"['3 guests', '1 bedroom', '1 bed', '1.5 shared baths', '\U000f0004\n101 Reviews', '\U000f0019\nVerified']"
+Manhattan,1 bedroom with 3 beds in the heart of Times Square,Entire apartment,$150 ,Kerri,64 Reviews,5,"['4 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n64 Reviews', '\U000f0019\nVerified']"
+Manhattan,Cozy apartment in Central Park North,Entire apartment,$135 ,Hafou,48 Reviews,4,"['3 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n49 Reviews', '\U000f0019\nVerified']"
+Manhattan,Amazing Sunny Apartment in the Lower East Side,Entire apartment,$169 ,Todd,77 Reviews,4.5,"['3 guests', 'Studio', '1 bed', '1 bath', '\U000f0004\n93 Reviews', '\U000f0019\nVerified']"
+Manhattan,Amazing Large 1BR-Brand New quiet modern Charm!!!,Entire apartment,$100 ,Andrea,3 Reviews,,"['3 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n9 Reviews', '\U000f0019\nVerified']"
+Manhattan,Spacious Apt in Townhouse near Columbia University,Entire apartment,$133 ,Emilie,95 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n98 Reviews', '\U000f0019\nVerified']"
+Manhattan,Lovely 2-bedroom 1bath in Chinatown & Little Italy,Entire apartment,$135 ,Carmen,129 Reviews,4.5,"['4 guests', '2 bedrooms', '4 beds', '1 bath', '\U000f0004\n129 Reviews', '\U000f0019\nVerified']"
+Manhattan,Newly Renovated 1 Bedroom Apartment Hell's Kitchen,Entire apartment,$169 ,Elgin,91 Reviews,5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n98 Reviews', '\U000f0019\nVerified']"
+Manhattan,Comfy room in Manhattan 4 blocks from central park,Private room in apartment,$110 ,Elias,48 Reviews,4.5,"['4 guests', '1 bedroom', '1 bed', '1 shared bath', '\U000f0004\n67 Reviews', '\U000f0019\nVerified']"
+Manhattan,Amazing Sunny Apartment in the Lower East Side,Entire apartment,$169 ,Todd,77 Reviews,4.5,"['3 guests', 'Studio', '1 bed', '1 bath', '\U000f0004\n93 Reviews', '\U000f0019\nVerified']"
+Manhattan,Huge 3 Bedroom Apartment in Times Square,Entire apartment,$295 ,Mark,65 Reviews,4.5,"['6 guests', '3 bedrooms', '3 beds', '1 bath', '\U000f0004\n179 Reviews', '\U000f0019\nVerified']"
+Manhattan,Family Place in❤️❤️of Manhattan ⌚Times Square★★★★★,Entire apartment,$278 ,Alex,133 Reviews,4.5,"['5 guests', '2 bedrooms', '3 beds', '1 bath', '\U000f0004\n12 Reviews', '\U000f0019\nVerified']"
+Manhattan,Spacious Apt in Townhouse near Columbia University,Entire apartment,$133 ,Emilie,95 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n98 Reviews', '\U000f0019\nVerified']"
+Manhattan,MANHATTAN NEWLY RENOVATED SPACIOUS MODERN FLAT!,Entire apartment,$180 ,Emmanuel,20 Reviews,4.5,"['6 guests', '2 bedrooms', '2 beds', '1 bath', '\U000f0004\n22 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Close to Central Park,renovated quite studio A",Entire apartment,$149 ,Aron,50 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n96 Reviews', '\U000f0019\nVerified']"
+Manhattan,Sunny Little Brownstone on Central Park West,Entire loft,$150 ,Shannon,130 Reviews,5,"['3 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n154 Reviews', '\U000f0019\nVerified']"
+Manhattan,Stunning 2 BR Apartment Steps to the UN,Entire apartment,$180 ,Noa,116 Reviews,4.5,"['5 guests', '2 bedrooms', '3 beds', '1 bath', '\U000f0004\n124 Reviews', '\U000f0019\nVerified']"
+Manhattan,,,,,,,[]
+Manhattan,Spacious 1 BDRM near Central Park,Entire apartment,$195 ,Michael,174 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n183 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Times Square,center of New York City,7 mins walk!",Entire apartment,$169 ,Grayson,117 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n323 Reviews', '\U000f0019\nVerified']"
+Manhattan,Airy Apartment in Times Square,Private room in apartment,$99 ,Lina,8 Reviews,5,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n145 Reviews', '\U000f0019\nVerified']"
+Manhattan,Modern 1 bedroom GREAT location,Entire apartment,$239 ,Tina,166 Reviews,4.5,"['6 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n178 Reviews', '\U000f0019\nVerified']"
+Manhattan,COZY 2BDR APT- TIMES SQ / MIDTOWN WEST,Entire apartment,$150 ,Ed &Alexa,59 Reviews,4.5,"['6 guests', '2 bedrooms', '3 beds', '1 bath', '\U000f0004\n1429 Reviews', '\U000f0019\nVerified']"
+Manhattan,Private Studio Apartment in a Historic Brownstone,Private room in townhouse,$124 ,Jacob,123 Reviews,4.5,"['4 guests', 'Studio', '2 beds', '1 private bath', '\U000f0004\n874 Reviews', '\U000f0019\nVerified']"
+Manhattan,Cute Room in Lower East Side!,Private room in apartment,$68 ,Kate,110 Reviews,4.5,"['3 guests', '1 bedroom', '1 bed', '1 shared bath', '\U000f0004\n255 Reviews', '\U000f0019\nVerified']"
+Manhattan,New York Chelsea apartment,Entire apartment,$145 ,Sonia,20 Reviews,4.5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n20 Reviews', '\U000f0019\nVerified']"
+Manhattan,Amazing and large 1 bedroom in the heart of NYC,Entire apartment,$125 ,Yasmin,10 Reviews,4,"['6 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n10 Reviews', '\U000f0019\nVerified']"
+Manhattan,Charming Bedroom in Harlem,Private room in apartment,$140 ,Charles,313 Reviews,5,"['3 guests', '1 bedroom', '2 beds', '1.5 shared baths', '\U000f0004\n313 Reviews', '\U000f0019\nVerified']"
+Manhattan,Stylish 2BR ★ Sleeps 6 ★ C.Park,Entire apartment,$190 ,Gilad,109 Reviews,4,"['6 guests', '2 bedrooms', '3 beds', '1 bath', '\U000f0004\n109 Reviews', '\U000f0019\nVerified']"
+Manhattan,COZY STUDIO Upper West Side,Entire apartment,$199 ,Petrina,73 Reviews,5,"['4 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n73 Reviews', '\U000f0019\nVerified']"
+Manhattan,CLEAN & COZY EAST VILLAGE PAD,Entire apartment,$155 ,Lina,153 Reviews,4.5,"['3 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n569 Reviews', '\U000f1101\n1 Reference', '\U000f0019\nVerified']"
+Manhattan,Clean Apartment in A Warm Home,Entire apartment,$69 ,AGood,121 Reviews,5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n121 Reviews', '\U000f0019\nVerified']"
+Manhattan,Full Apartment on Central Park in Vibrant Harlem,Entire apartment,$121 ,Britt,74 Reviews,4.5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n74 Reviews', '\U000f0019\nVerified']"
+Manhattan,Luxury spacious quiet 1 bedroom by Columbus Circle,Entire apartment,$179 ,Elena,62 Reviews,5,"['6 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n77 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Luxury Astoria 1BD apt, 20min from Manhattan",Entire apartment,$130 ,Vadim,57 Reviews,5,"['4 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n204 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Clean/Quiet Apt, Great Location, with washer/dryer",Entire apartment,$93 ,David,193 Reviews,4.5,"['4 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n193 Reviews', '\U000f0019\nVerified']"
+Manhattan,New Modern 1 Bedroom Apt - Hip Downtown Manhattan,Entire apartment,$240 ,Mike,208 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n210 Reviews', '\U000f0019\nVerified']"
+Manhattan,Your Own Private Entrance Studio in Stylish Duplex,Private room in apartment,$109 ,Yamil,78 Reviews,5,"['4 guests', '1 bedroom', '1 bed', '1.5 private baths', '\U000f0004\n79 Reviews', '\U000f0019\nVerified']"
+Manhattan,Big Studio next to Madison Square Garden,Entire apartment,$125 ,Sara,2 Reviews,,"['6 guests', 'Studio', '3 beds', '1 bath', '\U000f0004\n2 Reviews', '\U000f0019\nVerified']"
+Manhattan,quaint village apartment for up to 6,Entire apartment,$225 ,Jacqueline,69 Reviews,4.5,"['6 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n166 Reviews', '\U000f0019\nVerified']"
+Manhattan,New York City Historical Brownstone First Floor.,Entire apartment,$27 ,Naima,231 Reviews,5,"['6 guests', '2 bedrooms', '3 beds', '2 baths', '\U000f0004\n488 Reviews', '\U000f0019\nVerified']"
+Manhattan,Amazing East Village Xtra Large Studio Apartment!,Entire apartment,$205 ,Joseph,100 Reviews,4.5,"['4 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n126 Reviews', '\U000f0019\nVerified']"
+Manhattan,UES Renovated Safe Location,Entire apartment,$148 ,Marvin,59 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n87 Reviews', '\U000f0019\nVerified']"
+Manhattan,Spacious room w/Private Roof Deck in Shared Apt,Private room in apartment,$172 ,Apeksha,121 Reviews,5,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n121 Reviews', '\U000f0019\nVerified']"
+Manhattan,Sunny Private Room at Central Park!,Private room in apartment,$120 ,Saint,194 Reviews,5,"['3 guests', '1 bedroom', '1 bed', '1 shared bath', '\U000f0004\n197 Reviews', '\U000f0019\nVerified']"
+Manhattan,Amazing East Village Xtra Large Studio Apartment!,Entire apartment,$205 ,Joseph,100 Reviews,4.5,"['4 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n126 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Sunny 1 Bedroom Apt, Lower East Side, Manhattan",Private room in apartment,$140 ,Lilly,70 Reviews,4.5,"['3 guests', '1 bedroom', '1 bed', '1 private bath', '\U000f0004\n78 Reviews', '\U000f0019\nVerified']"
+Manhattan,Union Square East,Entire apartment,$91 ,Stanton St,36 Reviews,4,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n37 Reviews', '\U000f0019\nVerified']"
+Manhattan,Harlem Brownstone Retreat Suite,Entire apartment,$140 ,Lana,68 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n68 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Perfect Harlem, New York Retreat",Entire apartment,$169 ,Ferris,312 Reviews,4.5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n320 Reviews', '\U000f0019\nVerified']"
+Manhattan,quaint village apartment for up to 6,Entire apartment,$225 ,Jacqueline,69 Reviews,4.5,"['6 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n166 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Cozy Room in Astoria,15min with Ferry To Manhattan",Private room in apartment,$75 ,Darko,30 Reviews,4.5,"['3 guests', '1 bedroom', '1 bed', '1 shared bath', '\U000f0004\n127 Reviews', '\U000f0019\nVerified']"
+Manhattan,COZY ONE BEDROOM APARTMENT IN MANHATTAN,Entire apartment,$156 ,Liza,69 Reviews,5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n70 Reviews', '\U000f0019\nVerified']"
+Manhattan,Charming Family Style Brownstone Apartment,Entire apartment,$219 ,Katiuscia,53 Reviews,4.5,"['6 guests', '1 bedroom', '3 beds', '2 baths', '\U000f0004\n54 Reviews', '\U000f0019\nVerified']"
+Manhattan,Stylish 1 Bedroom w/terrace perfect location,Entire apartment,$249 ,Jack,138 Reviews,4.5,"['6 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n138 Reviews', '\U000f0019\nVerified']"
+Manhattan,Heart of Manhattan,Entire apartment,$179 ,Diane,33 Reviews,5,"['3 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n33 Reviews', '\U000f0019\nVerified']"
+Manhattan,Spacious Stylish 2 br duplex in HK ft from Time SQ,Entire apartment,$350 ,Luis,105 Reviews,5,"['6 guests', '2 bedrooms', '3 beds', '1.5 baths', '\U000f0004\n105 Reviews', '\U000f0019\nVerified']"
+Manhattan,2 Bedrooms & 2 Bathrooms Apt in Hell's Kitchen,Entire apartment,$241 ,Alex G,254 Reviews,4.5,"['6 guests', '2 bedrooms', '3 beds', '2 baths', '\U000f0004\n474 Reviews', '\U000f0019\nVerified']"
+Manhattan,Modern 1 Bedroom 4FL w/Marble Bthr,Entire apartment,$150 ,Tny,8 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n75 Reviews', '\U000f0019\nVerified']"
+Manhattan,Fabulously Located Comfortable 3 Bedroom Loft,Entire loft,$253 ,E.C.,46 Reviews,4.5,"['8 guests', '3 bedrooms', '6 beds', '1 bath', '\U000f0004\n46 Reviews', '\U000f0019\nVerified']"
+Manhattan,Manhattan Upper East Side 1bedroom,Entire apartment,$174 ,Susie,181 Reviews,4.5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n245 Reviews', '\U000f0019\nVerified']"
+Manhattan,Prime Location Sun Filled West Village Townhome,Entire apartment,$202 ,Cate,183 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n330 Reviews', '\U000f0019\nVerified']"
+Manhattan,Amazing Downtown With Rooftop,Entire apartment,$228 ,Jake,211 Reviews,4.5,"['3 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n492 Reviews', '\U000f0019\nVerified']"
+Manhattan,Fabulously Located Comfortable 3 Bedroom Loft,Entire loft,$253 ,E.C.,46 Reviews,4.5,"['8 guests', '3 bedrooms', '6 beds', '1 bath', '\U000f0004\n46 Reviews', '\U000f0019\nVerified']"
+Manhattan,Amazing Downtown With Rooftop,Entire apartment,$228 ,Jake,211 Reviews,4.5,"['3 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n492 Reviews', '\U000f0019\nVerified']"
+Manhattan,Authentic Midtown Manhattan Studio,Entire apartment,$135 ,Vicente,31 Reviews,5,"['4 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n53 Reviews', '\U000f0019\nVerified']"
+Manhattan,DaDukes Dreams,Private room in house,$85 ,Alberto,66 Reviews,5,"['4 guests', '1 bedroom', '3 beds', '2 shared baths', '\U000f0004\n398 Reviews', '\U000f0019\nVerified']"
+Manhattan,1 Bedroom/1 Livingroom on 21st and 8th in Chelsea,Entire apartment,$145 ,Katie Knapp,33 Reviews,5,"['3 guests', '2 bedrooms', '3 beds', '1 bath', '\U000f0004\n33 Reviews', '\U000f0019\nVerified']"
+Manhattan,Manhattan Upper East Side 1bedroom,Entire apartment,$174 ,Susie,181 Reviews,4.5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n245 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Light, Large Apt Near Central Park",Entire apartment,$195 ,Jane,164 Reviews,4.5,"['7 guests', '3 bedrooms', '3 beds', '1 bath', '\U000f0004\n391 Reviews', '\U000f0019\nVerified']"
+Manhattan,Entire 1BR Apt in Manhattanville,Entire condominium,$94 ,Corey,61 Reviews,4.5,"['4 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n64 Reviews', '\U000f0019\nVerified']"
+Manhattan,Room can fit 3 people in Manhattan close to subway,Private room in apartment,$65 ,Julianna,12 Reviews,5,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n52 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Sunny West Village apt, 2 beds",Entire apartment,$150 ,Aspen,31 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n43 Reviews', '\U000f0019\nVerified']"
+Manhattan,Paradise in New York City 2,Entire apartment,$27 ,Shama,13 Reviews,5,"['6 guests', '2 bedrooms', '3 beds', '2 baths', '\U000f0004\n81 Reviews', '\U000f0019\nVerified']"
+Manhattan,Beautiful Apartment near Times Square Central Park,Entire apartment,$241 ,Ash,94 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n94 Reviews', '\U000f0019\nVerified']"
+Manhattan,1 BEDROOM SUITE IN HARLEM FAMILY TOWNHOUSE,Entire apartment,$200 ,Maribel,175 Reviews,5,"['4 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n182 Reviews', '\U000f0019\nVerified']"
+Manhattan,Great renovated studio in the heart of Manhattan,Entire apartment,$145 ,Shirley,74 Reviews,4.5,"['4 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n74 Reviews']"
+Manhattan,Modern Clean Studio 2 blocks from Central Park,Entire apartment,$145 ,Eugene,164 Reviews,4.5,"['4 guests', 'Studio', '0 beds', '1 bath', '\U000f0004\n1065 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Quiet, tranquil room in the middle of everything!",Private room in apartment,$149 ,Eddie,121 Reviews,4.5,"['4 guests', '1 bedroom', '1 bed', '2 shared baths', '\U000f0004\n1 Review', '\U000f0019\nVerified']"
+Manhattan,Fascinating Modern Apartment - 5 mins Time Square,Entire apartment,$200 ,Edison,121 Reviews,4.5,"['6 guests', '2 bedrooms', '4 beds', '1 bath', '\U000f0004\n147 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Beautiful spacious one bedroom, upper east side",Entire apartment,$180 ,Julia,92 Reviews,5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n92 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Beautiful spacious one bedroom, upper east side",Entire apartment,$180 ,Julia,92 Reviews,5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n92 Reviews', '\U000f0019\nVerified']"
+Manhattan,Large 1 bedroom loft GREAT location,Entire apartment,$289 ,Chi,147 Reviews,4.5,"['8 guests', '1 bedroom', '4 beds', '1 bath', '\U000f0004\n162 Reviews', '\U000f0019\nVerified']"
+Manhattan,MODERN STYLISH PENTHOUSE SUITE @ CENTRAL PARK,Entire apartment,$166 ,Gregory,52 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n147 Reviews', '\U000f0019\nVerified']"
+Manhattan,Sophisticated Harlem True 2BR NYC,Entire apartment,$195 ,Enid,133 Reviews,5,"['4 guests', '2 bedrooms', '2 beds', '1 bath', '\U000f0004\n136 Reviews', '\U000f0019\nVerified']"
+Manhattan,Mins to SOHO-Good sized 2 Bdrms w/ real comfy beds,Entire apartment,$181 ,Kandee,135 Reviews,4.5,"['6 guests', '2 bedrooms', '4 beds', '1 bath', '\U000f0004\n188 Reviews', '\U000f1101\n1 Reference', '\U000f0019\nVerified']"
+Manhattan,Cool room in Manhattan - Comfortable for 3 guests,Private room in apartment,$195 ,Ana,139 Reviews,4.5,"['3 guests', '1 bedroom', '3 beds', '1 shared bath', '\U000f0004\n334 Reviews', '\U000f0019\nVerified']"
+Manhattan,"New Apt near Central Park, Broadway, Museums",Entire apartment,$145 ,Angela,58 Reviews,4.5,"['3 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n64 Reviews', '\U000f0019\nVerified']"
+Manhattan,2 BR in Times Sq: The heart of NYC,Entire apartment,$275 ,Layka,192 Reviews,4.5,"['4 guests', '2 bedrooms', '2 beds', '1 bath', '\U000f0004\n344 Reviews', '\U000f1101\n4 References', '\U000f0019\nVerified']"
+Manhattan,"BEST LOWER EAST SIDE APT, SLEEPS 4",Entire apartment,$245 ,Ren,209 Reviews,4.5,"['4 guests', '2 bedrooms', '2 beds', '1 bath', '\U000f0004\n252 Reviews', '\U000f0019\nVerified']"
+Manhattan,Beautiful GRDN Apt Chelsea Meatpacking Min 30 days,Entire townhouse,$250 ,Vanessa,195 Reviews,5,"['4 guests', '2 bedrooms', '3 beds', '1 bath', '\U000f0004\n200 Reviews', '\U000f0019\nVerified']"
+Manhattan,Luxury Apt in EV - 2 Spacious BR + 2 Full Bath!!,Entire apartment,$199 ,Em,170 Reviews,5,"['5 guests', '2 bedrooms', '2 beds', '2 baths', '\U000f0004\n180 Reviews', '\U000f1101\n6 References', '\U000f0019\nVerified']"
+Manhattan,LARGE LOFT STUDIO- CENTER MANHATTAN,Entire apartment,$149 ,Ale,146 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n152 Reviews', '\U000f0019\nVerified']"
+Manhattan,Great studio in Hells Kitchen!!!,Entire apartment,$149 ,Greg,59 Reviews,4.5,"['4 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n59 Reviews', '\U000f0019\nVerified']"
+Manhattan,UNBEATABLE LOCATION/TIMES SQUARE!,Entire apartment,$239 ,Leo,137 Reviews,4.5,"['4 guests', '2 bedrooms', '0 beds', '1 bath', '\U000f0004\n137 Reviews', '\U000f0019\nVerified']"
+Manhattan,Quaint and Large midtown 1Bed next to Empire state,Entire apartment,$154 ,Jamie,80 Reviews,5,"['5 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n80 Reviews', '\U000f0019\nVerified']"
+Manhattan,Spacious 1 BR Apartment - Sleeps 4,Entire apartment,$220 ,Patrick,180 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n189 Reviews', '\U000f1101\n2 References', '\U000f0019\nVerified']"
+Manhattan,THE SMALL ENGLISH MANOR NESTLED AMONGST THE TREES,Entire apartment,$165 ,Emma,114 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n114 Reviews', '\U000f0019\nVerified']"
+Manhattan,Fun Unique Spacious Midtown Getaway,Entire apartment,$245 ,William,141 Reviews,4.5,"['6 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n142 Reviews', '\U000f0019\nVerified']"
+Manhattan,Beautiful Apartment near Times Square Central Park,Entire apartment,$241 ,Ash,94 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n94 Reviews', '\U000f0019\nVerified']"
+Manhattan,Entire floor. Private bathroom. Great location.,Private room in apartment,$149 ,Elena,184 Reviews,4.5,"['3 guests', '1 bedroom', '3 beds', '1 private bath', '\U000f0004\n300 Reviews', '\U000f0019\nVerified']"
+Manhattan,Stunning 2bed/2bath Steps to Central Park,Entire apartment,$199 ,Chris,31 Reviews,4.5,"['8 guests', '2 bedrooms', '2 beds', '2 baths', '\U000f0004\n45 Reviews', '\U000f0019\nVerified']"
+Manhattan,Charming Duplex in Manhattan,Entire apartment,$155 ,Chito And Xavier,77 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n169 Reviews', '\U000f0019\nVerified']"
+Manhattan,Bright and stylish bedroom 20min from Times Square,Private room in condominium,$72 ,Max And Kathy,22 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '2 shared baths', '\U000f0004\n89 Reviews', '\U000f0019\nVerified']"
+Manhattan,Unique Spacious 2BDR in NOLITA,Entire apartment,$192 ,Jay,163 Reviews,5,"['4 guests', '2 bedrooms', '2 beds', '1 bath', '\U000f0004\n175 Reviews', '\U000f0019\nVerified']"
+Manhattan,Artsy Harlem Guest Space,Entire guest suite,$125 ,Laura,224 Reviews,4.5,"['4 guests', 'Studio', '3 beds', '1 bath', '\U000f0004\n224 Reviews', '\U000f0019\nVerified']"
+Manhattan,Beautiful APT in the HEART of Manhattan!!!!,Entire apartment,$142 ,Salvatore,220 Reviews,4.5,"['3 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n245 Reviews', '\U000f0019\nVerified']"
+Manhattan,Lovely Deluxe Studio near Lincoln Center,Entire apartment,$191 ,Albar,226 Reviews,4.5,"['5 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n237 Reviews', '\U000f0019\nVerified']"
+Manhattan,Gorgeous Renovated 1BR - close to Central Park,Entire apartment,$140 ,Kate,78 Reviews,4.5,"['6 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n78 Reviews', '\U000f0019\nVerified']"
+Manhattan,"Big 1st Meal, Kind Host, Ace Space",Private room in apartment,$134 ,Nancy,314 Reviews,4.5,"['3 guests', '2 bedrooms', '3 beds', '1 shared bath', '\U000f0004\n328 Reviews', '\U000f1101\n3 References', '\U000f0019\nVerified']"
+Manhattan,UNBEATABLE LOCATION/TIMES SQUARE!,Entire apartment,$239 ,Leo,137 Reviews,4.5,"['4 guests', '2 bedrooms', '0 beds', '1 bath', '\U000f0004\n137 Reviews', '\U000f0019\nVerified']"
+Manhattan,NYC Bedroom in Amazing Location!,Private room in apartment,$133 ,Sterling,143 Reviews,5,"['4 guests', '1 bedroom', '3 beds', '1 shared bath', '\U000f0004\n322 Reviews']"
+Manhattan,Full Floor Apt 3Br in Times Sq,Entire apartment,$378 ,Andrea,160 Reviews,4.5,"['6 guests', '3 bedrooms', '4 beds', '1 bath', '\U000f0004\n162 Reviews', '\U000f0019\nVerified']"
+Manhattan,Sunny & Clean- Soho/west village loft,Entire apartment,$169 ,Candy,14 Reviews,4.5,"['6 guests', '3 bedrooms', '3 beds', '1 bath', '\U000f0004\n14 Reviews', '\U000f0019\nVerified']"
+Manhattan,[205] 5 min WALK to Times Square,Private room in apartment,$210 ,Yasu & Akiko,175 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 private bath', '\U000f0004\n1875 Reviews', '\U000f0019\nVerified']"
+Manhattan,NYC Top-Floor Mid-Town Apartment (new openings!),Private room in apartment,$190 ,Chuck,21 Reviews,5,"['5 guests', '1 bedroom', '2 beds', '1 private bath', '\U000f0004\n21 Reviews', '\U000f0019\nVerified']"
+Manhattan,Upper East Chic 1BR Apartment Near Central Park,Entire apartment,$169 ,Song,30 Reviews,4.5,"['4 guests', '1 bedroom', '3 beds', '1 bath', '\U000f0004\n31 Reviews', '\U000f0019\nVerified']"
+Manhattan,Beautiful 1BR Apt near Time Square,Entire apartment,$180 ,Lance,48 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n51 Reviews', '\U000f0019\nVerified']"
+Manhattan,Cute private space in an Awesome Location,Entire condominium,$180 ,Fred,148 Reviews,4,"['4 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n148 Reviews']"
+Manhattan,NYC Top-Floor Mid-Town Apartment (new openings!),Private room in apartment,$190 ,Chuck,21 Reviews,5,"['5 guests', '1 bedroom', '2 beds', '1 private bath', '\U000f0004\n21 Reviews', '\U000f0019\nVerified']"
+Manhattan,Charming 1BR Apartment close to Time Square,Entire apartment,$170 ,Jose,115 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n118 Reviews', '\U000f0019\nVerified']"
+Manhattan,Pleasant UpperEastSide Townhouse Garden Studio,Entire house,$139 ,Kate,80 Reviews,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n662 Reviews']"
+Manhattan,QUAINT HELL'S KITCHEN STUDIO!!!,Entire apartment,$169 ,Kevin,159 Reviews,4.5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n160 Reviews', '\U000f0019\nVerified']"
+Manhattan,Heart of the West,Entire apartment,$180 ,Ash,3 Reviews,5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '\U000f0004\n230 Reviews', '\U000f0019\nVerified']"
+Manhattan,Sunny & Clean- Soho/west village loft,Entire apartment,$169 ,Candy,14 Reviews,4.5,"['6 guests', '3 bedrooms', '3 beds', '1 bath', '\U000f0004\n14 Reviews', '\U000f0019\nVerified']"
+Manhattan,Landmark 2 Bedroom West Village NYC,Entire apartment,$225 ,West Village,143 Reviews,4.5,"['4 guests', '2 bedrooms', '2 beds', '1 bath', '\U000f0004\n392 Reviews', '\U000f0019\nVerified']"
+Manhattan,East Village Bed & Breakfast - Subway 2 short Blks,Private room in apartment,$124 ,Helen,127 Reviews,4.5,"['3 guests', '1 bedroom', '1 bed', '1 shared bath', '\U000f0004\n153 Reviews', '\U000f0019\nVerified']"
+Manhattan,Private Room w/a Patio In Center of Manhattan!,Private room in apartment,$125 ,Teresa,51 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '\U000f0004\n138 Reviews', '\U000f0019\nVerified']"
+Manhattan,Modern 1 Bedroom Apt - Trendy & Historic Downtown,Entire apartment,$230 ,John,145 Reviews,5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n300 Reviews', '\U000f0019\nVerified']"
+Manhattan,Beautiful Upper East Side Apartment,Entire apartment,$150 ,Eli,129 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n162 Reviews', '\U000f0019\nVerified']"
+Manhattan,Entire 2 bdrm/2 bth UWS/RiversdePrk,Entire apartment,$186 ,Mike,69 Reviews,4.5,"['4 guests', '2 bedrooms', '3 beds', '2 baths', '\U000f0004\n73 Reviews', '\U000f0019\nVerified']"
+Manhattan,Stylish & Inviting Brownstone Apt,Entire apartment,$180 ,Jennifer And Kenneth,109 Reviews,5,"['4 guests', 'Studio', '2 beds', '1 bath', '\U000f0004\n109 Reviews', '\U000f0019\nVerified']"
+Manhattan,One bedroom escape,Entire apartment,$130 ,Chuck,104 Reviews,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n104 Reviews', '\U000f0019\nVerified']"
+Manhattan,Accessible Two Bedded Suite With Kitchen near MSG,Room in hotel,$157 ,Stewart Hotel,,,"['4 guests', '1 bedroom', '2 beds', '1 bath', '\U000f0004\n5 Reviews']"
+Manhattan,Stylish & Spacious Apartment in Harlem Brownstone,Entire apartment,$147 ,Elisia,103 Reviews,4.5,"['6 guests', '2 bedrooms', '3 beds', '1 bath', '\U000f0004\n104 Reviews', '\U000f0019\nVerified']"
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

@@ -1,0 +1,905 @@
+,Unnamed: 0,city,house_title,house_type,price,owner_name,no_of_reviews,rating,occupancy,occupancy_lst,no_of_guest,house_size,no_of_beds,no_of_baths,house,beds,bath
+0,0.0,Manhattan,A Beautiful Brownstone Apartment,Entire apartment,910.0,Michael,2790,5.0,"['4 guests', 'Studio', '3 beds', '1 bath', '󰀄
+474 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n474 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+1,1.0,Manhattan,YOUR DREAM SUITE IN MANHATTAN,Private room in apartment,870.0,Marilyn,1370,4.0,"['4 guests', '1 bedroom', '2 beds', '1 private bath', '󰀄
+544 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 private bath'"", "" '\U000f0004\n544 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+2,2.0,Manhattan,Manhattan's Best Deal!,Entire apartment,1650.0,Adrianne,2720,4.5,"['6 guests', '2 bedrooms', '5 beds', '1 bath', '󰀄
+410 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '2 bedrooms'"", "" '5 beds'"", "" '1 bath'"", "" '\U000f0004\n410 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+3,3.0,Manhattan,Spacious room near Times Square,Private room in apartment,880.0,Stephanie,1180,4.5,"['4 guests', '1 bedroom', '1 bed', '1 shared bath', '󰀄
+257 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 shared bath'"", "" '\U000f0004\n257 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+4,4.0,Manhattan,Entire Apartment Steps from Times Square!!! For 4!,Entire apartment,990.0,Theresa,1620,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+398 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n398 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+5,5.0,Manhattan,Modern & Trendy 2-Bedroom 1 Bath Lower Manhattan,Entire apartment,900.0,Alex,1170,5.0,"['5 guests', '2 bedrooms', '3 beds', '1 bath', '󰀄
+118 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n118 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+6,6.0,Manhattan,LARGE 2 Bedroom Midtown Manhattan Apartment!,Entire apartment,1240.0,Ethan,40,5.0,"['4 guests', '2 bedrooms', '2 beds', '1 bath', '󰀄
+4 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n4 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+7,7.0,Manhattan,Massive DUPLEX 2BR & 2BATH East Village,Entire apartment,1980.0,Seith,3400,4.0,"['8 guests', '2 bedrooms', '4 beds', '2 baths', '󰀄
+939 Reviews', '󱄁
+1 Reference', '󰀙
+Verified']","[""['8 guests'"", "" '2 bedrooms'"", "" '4 beds'"", "" '2 baths'"", "" '\U000f0004\n939 Reviews'"", "" '\U000f1101\n1 Reference'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+8,8.0,Manhattan,Luxury Central Park Apartment close to everything,Entire apartment,1990.0,Bozhena,1250,4.5,"['4 guests', '1 bedroom', '4 beds', '1 bath', '󰀄
+337 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '4 beds'"", "" '1 bath'"", "" '\U000f0004\n337 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+9,9.0,Manhattan,GREAT AND STYLISH APARTMENT! AMAZING LOCATION!,Entire apartment,1100.0,M. Alejandro,1000,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+108 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n108 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+10,10.0,Manhattan,Big renovated studio up to 4 people in Manhattan,Entire apartment,950.0,Gloria,200,4.5,"['4 guests', 'Studio', '1 bed', '1 bath', '󰀄
+20 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n20 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+11,11.0,Manhattan,GORGEOUS 1 BDR PRIME HELL'S KITCHEN,Entire apartment,1340.0,Konstantin,2610,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+263 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n263 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+12,12.0,Manhattan,Spacious Room in East Village/NoHo,Private room in apartment,1290.0,Sne,3810,5.0,"['3 guests', '1 bedroom', '1 bed', '1 shared bath', '󰀄
+382 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 shared bath'"", "" '\U000f0004\n382 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+13,13.0,Manhattan,Manhattan Lux Loft.Like.Love.Lots.Look !,Private room in loft,2710.0,Carol,5260,5.0,"['5 guests', '1 bedroom', '3 beds', '1 private bath', '󰀄
+533 Reviews', '󱄁
+5 References', '󰀙
+Verified']","[""['5 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 private bath'"", "" '\U000f0004\n533 Reviews'"", "" '\U000f1101\n5 References'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+14,14.0,Manhattan,Cozy Hell's Kitchen/ Time Square Apartment- 2 BRM,Entire apartment,1450.0,Nivea And Jill,1220,4.5,"['8 guests', '2 bedrooms', '4 beds', '1 bath', '󰀄
+124 Reviews', '󰀙
+Verified']","[""['8 guests'"", "" '2 bedrooms'"", "" '4 beds'"", "" '1 bath'"", "" '\U000f0004\n124 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+15,15.0,Manhattan,"2 Blocks from Times Square, Centrally Located!",Entire apartment,1750.0,Astor,1550,4.5,"['5 guests', 'Studio', '4 beds', '1 bath', '󰀄
+214 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" 'Studio'"", "" '4 beds'"", "" '1 bath'"", "" '\U000f0004\n214 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+16,16.0,Manhattan,Unique Loft GREAT location,Entire apartment,1890.0,Lee,1660,4.5,"['6 guests', 'Studio', '3 beds', '1 bath', '󰀄
+210 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" 'Studio'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n210 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+17,17.0,Manhattan,âUnique two bedroom on 2nd Avenueâ,Entire apartment,1500.0,Zev,2810,4.5,"['5 guests', '2 bedrooms', '3 beds', '1 bath', '󰀄
+613 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n613 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+18,18.0,Manhattan,Best of the East Village Cozy 2 Bedroom,Entire apartment,1000.0,Katya,2030,4.5,"['5 guests', '2 bedrooms', '2 beds', '1 bath', '󰀄
+206 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n206 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+19,19.0,Manhattan,A Unique studio apartment,Entire apartment,1400.0,Michael,1950,5.0,"['3 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+474 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n474 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+20,20.0,Manhattan,Modern Condo in Midtown,Private room in apartment,1590.0,Welcome To My Place,3110,5.0,"['4 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+314 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n314 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+21,21.0,Manhattan,Cozy Apartment Near Times Square,Entire apartment,1350.0,Mike,2250,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+276 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n276 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+22,22.0,Manhattan,Amazingly well located 2 bedroom/2 bath apartment,Entire apartment,1250.0,John,390,4.5,"['6 guests', '2 bedrooms', '3 beds', '2 baths', '󰀄
+39 Reviews']","[""['6 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '2 baths'"", "" '\U000f0004\n39 Reviews']""]",[,"""",[,',,,
+23,23.0,Manhattan,RENOVATED/BEST LOCATION in MIDTOWN,Private room in townhouse,1900.0,Marta,1620,5.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+307 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n307 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+24,24.0,Manhattan,Near Times Square and Hell's Kitchen,Private room in apartment,1400.0,Claude,3430,4.5,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '󰀄
+347 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 shared bath'"", "" '\U000f0004\n347 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+25,25.0,Manhattan,Fun Spacious Midtown Apt near U.N. & Central Park,Entire apartment,1750.0,Christian,1290,5.0,"['5 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+135 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n135 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+26,26.0,Manhattan,Elegant Private Apartment in a Historic Brownstone,Private room in townhouse,1080.0,Jacob,1040,5.0,"['4 guests', 'Studio', '2 beds', '1 private bath', '󰀄
+874 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 private bath'"", "" '\U000f0004\n874 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+27,27.0,Manhattan,Cozy Apartment Next To Central Park,Entire apartment,1500.0,Lenny,1030,4.5,"['5 guests', '2 bedrooms', '2 beds', '1 bath', '󰀄
+142 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n142 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+28,28.0,Manhattan,"Manhattan, Room w/ 2 Beds Near Central Park &Metro",Private room in house,990.0,Joo,1430,4.5,"['4 guests', '1 bedroom', '2 beds', '1 shared bath', '󰀄
+987 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 shared bath'"", "" '\U000f0004\n987 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+29,29.0,Manhattan,Miltons place,Entire apartment,900.0,Milton,80,5.0,"['4 guests', 'Studio', '0 beds', '1 bath', '󰀄
+18 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '0 beds'"", "" '1 bath'"", "" '\U000f0004\n18 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+30,30.0,Manhattan,Super well located 2 BR 2 bath apt in Manhattan,Entire apartment,1500.0,Gina,180,4.5,"['8 guests', '2 bedrooms', '4 beds', '2 baths', '󰀄
+18 Reviews', '󰀙
+Verified']","[""['8 guests'"", "" '2 bedrooms'"", "" '4 beds'"", "" '2 baths'"", "" '\U000f0004\n18 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+31,31.0,Manhattan,Modernly Designed studIo in turtle bay area~402~,Entire apartment,1050.0,Lior,1010,4.5,"['4 guests', 'Studio', '3 beds', '1 bath', '󰀄
+134 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n134 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+32,32.0,Manhattan,Cute studio in the Upper West Side.,Entire apartment,1090.0,Ai,90,5.0,"['3 guests', 'Studio', '1 bed', '1 bath', '󰀄
+25 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" 'Studio'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n25 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+33,33.0,Manhattan,HELL'S KITCHEN STUDIO for 2 or 3,Entire apartment,1350.0,Rod,2040,4.5,"['3 guests', 'Studio', '1 bed', '1 bath', '󰀄
+224 Reviews', '󱄁
+1 Reference', '󰀙
+Verified']","[""['3 guests'"", "" 'Studio'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n224 Reviews'"", "" '\U000f1101\n1 Reference'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+34,34.0,Manhattan,SPACIOUS SCANDINAVIAN DESIGNER APT/Luxury building,Entire apartment,970.0,Teresa,200,5.0,"['6 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+98 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n98 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+35,35.0,Manhattan,Modern Studio in the center of Manhattan!,Entire apartment,950.0,Olivier,830,4.5,"['4 guests', 'Studio', '2 beds', '1 bath', '󰀄
+83 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n83 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+36,36.0,Manhattan,Soho Apartment Stylish & Central,Entire condominium,1900.0,Arne,3460,4.5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+851 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n851 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+37,37.0,Manhattan,Clean and comfortable 3 person private room,Private room in apartment,800.0,Kristy,880,4.5,"['3 guests', '1 bedroom', '3 beds', '1.5 shared baths', '󰀄
+286 Reviews', '󱄁
+3 References', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1.5 shared baths'"", "" '\U000f0004\n286 Reviews'"", "" '\U000f1101\n3 References'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+38,38.0,Manhattan,"Manhattan, Clean Room Near Central Park & Subway",Private room in house,790.0,Joo,1500,5.0,"['3 guests', '1 bedroom', '3 beds', '2 shared baths', '󰀄
+987 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '2 shared baths'"", "" '\U000f0004\n987 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+39,39.0,Manhattan,Stunning studio APT in the heart of NYC,Entire apartment,1400.0,Eli,1030,4.5,"['3 guests', 'Studio', '3 beds', '1 bath', '󰀄
+105 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" 'Studio'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n105 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+40,40.0,Manhattan,"Classic Brownstone, a Private Studio Apartment",Private room in townhouse,1340.0,Jacob,1320,4.5,"['5 guests', 'Studio', '2 beds', '1 private bath', '󰀄
+874 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 private bath'"", "" '\U000f0004\n874 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+41,41.0,Manhattan,Sunny bedroom with Park views in East Village!,Private room in apartment,1220.0,Alfredo,1770,4.5,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '󰀄
+457 Reviews', '󱄁
+1 Reference', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 shared bath'"", "" '\U000f0004\n457 Reviews'"", "" '\U000f1101\n1 Reference'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+42,42.0,Manhattan,NEW! BEST LOCATION !!! 3min to Rockefeller Plaza,Private room in townhouse,1900.0,Marta,1450,5.0,"['4 guests', '1 bedroom', '2 beds', '1 private bath', '󰀄
+307 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 private bath'"", "" '\U000f0004\n307 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+43,43.0,Manhattan,Nice studio in Midtown Manhattan,Entire apartment,2190.0,Zahid,1620,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+162 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n162 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+44,44.0,Manhattan,Bright Cozy Chinatown Studio Apt.,Entire apartment,1600.0,Patricia,2720,5.0,"['3 guests', 'Studio', '2 beds', '1 bath', '󰀄
+275 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n275 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+45,45.0,Manhattan,Clean style apt. Central midtwn near Javits,Private room in apartment,1640.0,CZ Casa,1780,4.5,"['4 guests', '1 bedroom', '1 bed', '1 shared bath', '󰀄
+179 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 shared bath'"", "" '\U000f0004\n179 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+46,46.0,Manhattan,Brownstone studio near central park,Entire apartment,1500.0,Lucia,1250,4.5,"['3 guests', 'Studio', '1 bed', '1 bath', '󰀄
+282 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" 'Studio'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n282 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+47,47.0,Manhattan,Harlem Monthly Rental True Two Bedroom 1 Bath,Entire townhouse,990.0,Enid,30,4.5,"['6 guests', '2 bedrooms', '2 beds', '1 bath', '󰀄
+136 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n136 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+48,48.0,Manhattan,Sunny Private Studio-Apartment,Entire apartment,1190.0,Alexandra,1290,5.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+304 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n304 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+49,49.0,Manhattan,âHUGE beautiful E. Villager 2nd Avâ,Entire apartment,1500.0,Zev,3040,4.5,"['5 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+613 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n613 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+50,50.0,Manhattan,Cozy front room in a 2 bedroom family apt near CU,Private room in apartment,700.0,Anna & Keith,1140,4.5,"['4 guests', '1 bedroom', '2 beds', '1 shared bath', '󰀄
+116 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 shared bath'"", "" '\U000f0004\n116 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+51,51.0,Manhattan,Great apartment in the heart of Manhattan!,Entire apartment,1600.0,Jamie And John,1090,4.5,"['5 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+547 Reviews']","[""['5 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n547 Reviews']""]",[,"""",[,',,,
+52,52.0,Manhattan,THE SMALL CHATEAU IN THE TREES,Private room in apartment,2000.0,Stefanie Elizabeth,1890,5.0,"['3 guests', '1 bedroom', '2 beds', '1 private bath', '󰀄
+193 Reviews']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 private bath'"", "" '\U000f0004\n193 Reviews']""]",[,"""",[,',,,
+53,53.0,Manhattan,Clean & sunny private room (fits 3),Private room in apartment,770.0,Kristy,640,4.5,"['3 guests', '1 bedroom', '2 beds', '1.5 shared baths', '󰀄
+286 Reviews', '󱄁
+3 References', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1.5 shared baths'"", "" '\U000f0004\n286 Reviews'"", "" '\U000f1101\n3 References'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+54,54.0,Manhattan,Downtown Airy Designer Loft,Entire apartment,1790.0,Jaclyn,1710,5.0,"['6 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+172 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n172 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+55,55.0,Manhattan,Modern Central Park Apartment close to everything,Entire apartment,1990.0,Bozhena,1500,4.5,"['4 guests', '1 bedroom', '4 beds', '1 bath', '󰀄
+337 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '4 beds'"", "" '1 bath'"", "" '\U000f0004\n337 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+56,56.0,Manhattan,"Manhattan East Village, lower East Side",Entire apartment,1570.0,Marie L,1260,5.0,"['3 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+155 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n155 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+57,57.0,Manhattan,Harlem Monthly Rental True Two Bedroom 1 Bath,Entire townhouse,990.0,Enid,30,4.5,"['6 guests', '2 bedrooms', '2 beds', '1 bath', '󰀄
+136 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n136 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+58,58.0,Manhattan,Luxury! Rooftop Pool! Empire State Building View!,Entire condominium,1890.0,Emily,50,5.0,"['5 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+9 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n9 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+59,59.0,Manhattan,New Private studio-apartment,Entire apartment,1000.0,Alexandra,590,4.5,"['4 guests', 'Studio', '0 beds', '1 bath', '󰀄
+304 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '0 beds'"", "" '1 bath'"", "" '\U000f0004\n304 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+60,60.0,Manhattan,Middle of center of New York City!,Entire apartment,1550.0,Anders,1380,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+609 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n609 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+61,61.0,Manhattan,"Cozy, Luxury, Modern Stone Chelsea Apartment",Entire apartment,1270.0,Alberto,610,5.0,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+112 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n112 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+62,62.0,Manhattan,WeLive Wall Street -- Studio+,Entire serviced apartment,2290.0,WeWork,2330,5.0,"['3 guests', 'Studio', '2 beds', '1 bath', '󰀄
+506 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n506 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+63,63.0,Manhattan,Cute Apartment in Hell's Kitchen,Entire apartment,2000.0,Jennifer,1900,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+190 Reviews']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n190 Reviews']""]",[,"""",[,',,,
+64,64.0,Manhattan,"Manhattan, Room w/3 Beds Near Metro & Central Park",Private room in apartment,950.0,Joo,1290,5.0,"['4 guests', '1 bedroom', '3 beds', '1 shared bath', '󰀄
+987 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 shared bath'"", "" '\U000f0004\n987 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+65,66.0,Manhattan,Luxe Tuscan Suite Private Room,Private room in apartment,760.0,Anne,2280,4.5,"['4 guests', '1 bedroom', '2 beds', '1 shared bath', '󰀄
+550 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 shared bath'"", "" '\U000f0004\n550 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+66,67.0,Manhattan,Midtown Sleep 6 Central Convenience,Entire apartment,1770.0,Adam,2280,5.0,"['6 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+229 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n229 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+67,68.0,Manhattan,CONFI & LOVELY APARTMENT LOWER EAST!WALK EVERYWERE,Entire apartment,1200.0,Antina,960,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+497 Reviews']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n497 Reviews']""]",[,"""",[,',,,
+68,69.0,Manhattan,Central Park View-Free Museum Tickets-Private Room,Private room in apartment,1000.0,Omar,760,5.0,"['3 guests', '1 bedroom', '3 beds', '1 private bath', '󰀄
+102 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 private bath'"", "" '\U000f0004\n102 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+69,70.0,Manhattan,BEAUTIFUL 1 BEDROOM Heart of Upper East Side!!,Entire apartment,700.0,Albina,210,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+22 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n22 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+70,71.0,Manhattan,Spacious Luxury Wall Street Suite,Entire apartment,2090.0,Vic,1160,4.5,"['5 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+116 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n116 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+71,72.0,Manhattan,BEAUTIFUL 1 BEDROOM Heart of Upper East Side!!,Entire apartment,700.0,Albina,210,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+22 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n22 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+72,73.0,Manhattan,BEST LOCATION in MANHATTAN!,Entire apartment,1640.0,Regina Kira,1860,5.0,"['3 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+194 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n194 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+73,74.0,Manhattan,NICE 1 BDR- TIMES SQ/MIDTOWN- 4 ppl,Entire apartment,1200.0,Dc,1690,4.5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+342 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n342 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+74,75.0,Manhattan,Spacious Luxury Wall Street Suite,Entire apartment,2090.0,Vic,1160,4.5,"['5 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+116 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n116 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+75,76.0,Manhattan,"Manhattan Room w/2 beds, near Central Park & Metro",Private room in apartment,950.0,Joo,940,5.0,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '󰀄
+987 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 shared bath'"", "" '\U000f0004\n987 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+76,77.0,Manhattan,"BIG ONE BEDROOM LOFT!, COZY&CONFI Live Manhattan!",Entire loft,1800.0,Matt,1010,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+175 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n175 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+77,78.0,Manhattan,AMAZING DESIGNER TIMES SQUARE APARTMENT- BEAUTIFUL,Entire apartment,2190.0,Charly,950,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+95 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n95 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+78,79.0,Manhattan,1 BEDROOM APARTMENT IN UPPER EAST,Entire apartment,1770.0,Francesco,2240,4.0,"['4 guests', '2 bedrooms', '1 bed', '1 bath', '󰀄
+261 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '2 bedrooms'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n261 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+79,80.0,Manhattan,"1 BED ROOM ACCOMMODATION 4, 5 GUEST",Entire apartment,1450.0,"Manny , Job",1890,4.5,"['5 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+189 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n189 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+80,81.0,Manhattan,SPACIOUS SUNNY STUDIO 5MIN TIMES SQ,Entire apartment,1750.0,Lola,1700,4.5,"['3 guests', 'Studio', '2 beds', '1 bath', '󰀄
+170 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n170 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+81,82.0,Manhattan,Midtown great location private Apt,Entire apartment,1510.0,George,2040,4.5,"['3 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+205 Reviews']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n205 Reviews']""]",[,"""",[,',,,
+82,83.0,Manhattan,Modern 1 bedroom 5min Cental Park,Entire apartment,1690.0,Lily,1640,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+166 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n166 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+83,84.0,Manhattan,2 floor Apt w 300sqft Terrace,Entire apartment,1950.0,Evan,660,4.0,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+72 Reviews', '󱄁
+1 Reference', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n72 Reviews'"", "" '\U000f1101\n1 Reference'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+84,85.0,Manhattan,Traveller's Flat â Hell's Kitchen,Entire apartment,1800.0,Marco,960,5.0,"['6 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+360 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n360 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+85,86.0,Manhattan,"Manhattan, Gigantic Rm Nearby Central Park & Metro",Private room in house,1090.0,Joo,1700,5.0,"['5 guests', '1 bedroom', '3 beds', '2 shared baths', '󰀄
+987 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '2 shared baths'"", "" '\U000f0004\n987 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+86,87.0,Manhattan,True Two Bedroom Apartment in Lower Manhattan,Entire apartment,1600.0,Arielle,2120,4.5,"['4 guests', '2 bedrooms', '2 beds', '1 bath', '󰀄
+255 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n255 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+87,88.0,Manhattan,"Two double beds, New York, Chinatown, #2",Private room in apartment,1300.0,Amiee,710,4.5,"['4 guests', '1 bedroom', '2 beds', '1 shared bath', '󰀄
+175 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 shared bath'"", "" '\U000f0004\n175 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+88,89.0,Manhattan,"Big, cozy & chic! 1BR Apt in Harlem",Entire apartment,1000.0,Calatayud Family,1830,5.0,"['4 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+275 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n275 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+89,90.0,Manhattan,"Two double beds, New York, Chinatown, #2",Private room in apartment,1300.0,Amiee,710,4.5,"['4 guests', '1 bedroom', '2 beds', '1 shared bath', '󰀄
+175 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 shared bath'"", "" '\U000f0004\n175 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+90,91.0,Manhattan,Best of SOHO Gorgeous 2 bedroom,Entire condominium,2750.0,Arne,3430,4.5,"['5 guests', '2 bedrooms', '2 beds', '1 bath', '󰀄
+851 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n851 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+91,92.0,Manhattan,One Bedroom Mini studio - Free WIFI,Entire apartment,1400.0,Nazleen,1900,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+199 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n199 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+92,93.0,Manhattan,Charming Bedroom in hip Lower East Side!,Private room in apartment,650.0,Angie,1140,4.0,"['3 guests', '1 bedroom', '1 bed', '1 shared bath', '󰀄
+258 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 shared bath'"", "" '\U000f0004\n258 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+93,94.0,Manhattan,"Big, cozy & chic! 1BR Apt in Harlem",Entire apartment,1000.0,Calatayud Family,1830,5.0,"['4 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+275 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n275 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+94,95.0,Manhattan,Huge 5BR Townhouse - LEGAL NYC B&B!,Entire townhouse,3000.0,Elizabeth,1360,5.0,"['13 guests', '5 bedrooms', '6 beds', '2.5 baths', '󰀄
+137 Reviews', '󰀙
+Verified']","[""['13 guests'"", "" '5 bedrooms'"", "" '6 beds'"", "" '2.5 baths'"", "" '\U000f0004\n137 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+95,96.0,Manhattan,Cozy Private studio-apartment,Entire apartment,1100.0,Irina,550,5.0,"['4 guests', 'Studio', '2 beds', '1 bath', '󰀄
+55 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n55 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+96,97.0,Manhattan,"Brownstone Sanctuary, a Private Studio Apartment",Private room in townhouse,1240.0,Jacob,1280,4.5,"['4 guests', '1 bedroom', '3 beds', '1 private bath', '󰀄
+874 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 private bath'"", "" '\U000f0004\n874 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+97,98.0,Manhattan,"Gorgeous Space, Industrial NYC Apt",Entire apartment,1490.0,Jetsan,2590,4.0,"['8 guests', '2 bedrooms', '5 beds', '1 bath', '󰀄
+569 Reviews', '󱄁
+2 References', '󰀙
+Verified']","[""['8 guests'"", "" '2 bedrooms'"", "" '5 beds'"", "" '1 bath'"", "" '\U000f0004\n569 Reviews'"", "" '\U000f1101\n2 References'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+98,99.0,Manhattan,AMAZING 1 BR- TIME SQUARE-SLEEPS 4,Entire apartment,2000.0,E. M.,3240,4.5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+1233 Reviews', '󱄁
+1 Reference', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n1233 Reviews'"", "" '\U000f1101\n1 Reference'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+99,100.0,Manhattan,Home Sweet Harlem,Entire apartment,1300.0,Nykeisha,1010,5.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+101 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n101 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+100,101.0,Manhattan,Sweet 1-Bedroom in Upper East Side by Central Park,Entire apartment,1300.0,Chuck,1110,4.5,"['5 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+119 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n119 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+101,102.0,Manhattan,Beautiful private studio near central park,Entire apartment,1500.0,Lucia,1510,4.5,"['3 guests', 'Studio', '1 bed', '1 bath', '󰀄
+282 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" 'Studio'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n282 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+102,103.0,Manhattan,"Walk everywhere, See everything! 2BR Midtown West",Private room in apartment,1500.0,Julien,980,5.0,"['7 guests', '2 bedrooms', '3 beds', '1 private bath', '󰀄
+116 Reviews', '󰀙
+Verified']","[""['7 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '1 private bath'"", "" '\U000f0004\n116 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+103,104.0,Manhattan,"Manhattan, X Large Rm Near Central Park and Metro",Private room in apartment,1090.0,Joo,1570,4.5,"['4 guests', '1 bedroom', '2 beds', '1 shared bath', '󰀄
+987 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 shared bath'"", "" '\U000f0004\n987 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+104,105.0,Manhattan,Cozy Studio Apartment 2 Beds on Wall Street,Entire apartment,1730.0,Jon,1440,5.0,"['4 guests', 'Studio', '2 beds', '1 bath', '󰀄
+144 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n144 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+105,106.0,Manhattan,Nice Private Studio Apartment,Entire apartment,1200.0,Alexandra,1160,4.5,"['4 guests', 'Studio', '2 beds', '1 bath', '󰀄
+304 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n304 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+106,107.0,Manhattan,Manhattan Midtown West Cozy&Modern,Entire apartment,1850.0,Al,2460,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+298 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n298 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+107,108.0,Manhattan,Victorian Sanctuary in a Historic Brownstone,Private room in townhouse,980.0,Jacob,830,4.5,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '󰀄
+874 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 shared bath'"", "" '\U000f0004\n874 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+108,109.0,Manhattan,Charming One Bed Room Apartment,Entire apartment,1450.0,Olga,1620,4.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+162 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n162 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+109,110.0,Manhattan,Private bedroom with queen bed and single bed.,Private room in apartment,760.0,Kate,920,4.0,"['3 guests', '1 bedroom', '2 beds', '1 private bath', '󰀄
+255 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 private bath'"", "" '\U000f0004\n255 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+110,111.0,Manhattan,Your Stunning Vacation Apartment!,Entire apartment,1240.0,Will,3080,4.5,"['16+ guests', '2 bedrooms', '2 beds', '1 bath', '󰀄
+343 Reviews', '󱄁
+9 References', '󰀙
+Verified']","[""['16+ guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n343 Reviews'"", "" '\U000f1101\n9 References'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+111,113.0,Manhattan,â¤ï¸ Furnished One Bedroom with Terrace!! âââââ,Entire apartment,1490.0,Mark,950,5.0,"['4 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+102 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n102 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+112,114.0,Manhattan,Centrally Located Comfy 2BR Midtown Apartment,Entire apartment,2290.0,Akon,980,5.0,"['6 guests', '2 bedrooms', '3 beds', '1 bath', '󰀄
+98 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n98 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+113,115.0,Manhattan,Metro-luxe Tuscan Suite Private Room,Private room in apartment,750.0,Anne,2720,4.5,"['4 guests', '1 bedroom', '1 bed', '1 shared bath', '󰀄
+550 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 shared bath'"", "" '\U000f0004\n550 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+114,116.0,Manhattan,Times Square NYC Apartment,Entire apartment,1490.0,Dana And Mal,1430,4.5,"['4 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+143 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n143 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+115,117.0,Manhattan,Huge Private Bedroom/Private Bath in Times Sq/HK,Private room in apartment,1490.0,Shawn,2460,5.0,"['3 guests', '1 bedroom', '1 bed', '1 private bath', '󰀄
+372 Reviews', '󱄁
+3 References', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 private bath'"", "" '\U000f0004\n372 Reviews'"", "" '\U000f1101\n3 References'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+116,118.0,Manhattan,Two real bedrooms near Central Park,Entire apartment,1790.0,Lang,1950,4.0,"['7 guests', '2 bedrooms', '4 beds', '1 bath', '󰀄
+274 Reviews']","[""['7 guests'"", "" '2 bedrooms'"", "" '4 beds'"", "" '1 bath'"", "" '\U000f0004\n274 Reviews']""]",[,"""",[,',,,
+117,119.0,Manhattan,Peaceful & Cozy 1Br Apt in Residential Harlem,Entire apartment,1150.0,Manuel,880,5.0,"['4 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+91 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n91 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+118,120.0,Manhattan,Flex 2 Bedroom Apt w/ 3 Bed on Wall St (sleeps 5),Entire apartment,2090.0,Jb,1420,5.0,"['5 guests', '2 bedrooms', '3 beds', '1 bath', '󰀄
+142 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n142 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+119,121.0,Manhattan,Spacious 2 Bedroom Lower East Side,Entire apartment,1500.0,Sandra,1560,5.0,"['4 guests', '2 bedrooms', '2 beds', '1 bath', '󰀄
+156 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n156 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+120,122.0,Manhattan,Charming Manhattan-Midtown Studio,Entire apartment,1940.0,Roman,1480,4.5,"['3 guests', 'Studio', '2 beds', '1 bath', '󰀄
+152 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n152 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+121,123.0,Manhattan,Large Private Suite in the Heart of Midtown,Room in hotel,1200.0,Stewart Hotel,30,4.0,"['4 guests', '1 bedroom', '1 bed', '1 shared bath', '󰀄
+5 Reviews']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 shared bath'"", "" '\U000f0004\n5 Reviews']""]",[,"""",[,',,,
+122,124.0,Manhattan,"Manhattan, Huge Room Near Central Park & Metro",Private room in apartment,1090.0,Joo,1430,5.0,"['4 guests', '1 bedroom', '2 beds', '2 shared baths', '󰀄
+987 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '2 shared baths'"", "" '\U000f0004\n987 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+123,125.0,Manhattan,"Midtown Times Square bright room, private bath",Private room in apartment,1750.0,Troy,1310,4.5,"['4 guests', '1 bedroom', '2 beds', '1 private bath', '󰀄
+434 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 private bath'"", "" '\U000f0004\n434 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+124,126.0,Manhattan,"Midtown Times Square bright room, private bath",Private room in apartment,1750.0,Troy,1310,4.5,"['4 guests', '1 bedroom', '2 beds', '1 private bath', '󰀄
+434 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 private bath'"", "" '\U000f0004\n434 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+125,127.0,Manhattan,TriBeCa 2500 Sq Ft w/ Priv Elevator,Entire loft,5000.0,Chester & Jon,4310,5.0,"['12 guests', '3 bedrooms', '3 beds', '2 baths', '󰀄
+461 Reviews', '󰀙
+Verified']","[""['12 guests'"", "" '3 bedrooms'"", "" '3 beds'"", "" '2 baths'"", "" '\U000f0004\n461 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+126,129.0,Manhattan,Sunny Artist Live/Work Apartment,Entire apartment,1850.0,Larry,1520,5.0,"['3 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+154 Reviews', '󱄁
+1 Reference', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n154 Reviews'"", "" '\U000f1101\n1 Reference'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+127,130.0,Manhattan,Vintage Loft Style Studio - Greenwich/Union Square,Entire apartment,2500.0,Gina,1250,5.0,"['4 guests', 'Studio', '2 beds', '1 bath', '󰀄
+244 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n244 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+128,131.0,Manhattan,private bedroom w/private bathroom on Central Park,Private room in apartment,1600.0,Arlette,3150,4.5,"['3 guests', '1 bedroom', '2 beds', '1 private bath', '󰀄
+580 Reviews', '󱄁
+2 References', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 private bath'"", "" '\U000f0004\n580 Reviews'"", "" '\U000f1101\n2 References'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+129,132.0,Manhattan,Super cute 1 bedroom apartment close to TimeSquare,Entire apartment,1370.0,Chris And Jamie,90,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+192 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n192 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+130,133.0,Manhattan,Private bedroom with queen bed and single bed.,Private room in apartment,760.0,Kate,920,4.0,"['3 guests', '1 bedroom', '2 beds', '1 private bath', '󰀄
+255 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 private bath'"", "" '\U000f0004\n255 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+131,134.0,Manhattan,Cute Room. Manhattan. 20 min train to Time Square!,Private room in apartment,890.0,Angelica,620,4.5,"['4 guests', '1 bedroom', '2 beds', '1 shared bath', '󰀄
+117 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 shared bath'"", "" '\U000f0004\n117 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+132,135.0,Manhattan,Oriental Room in Upper Manhattan near Central Park,Private room in apartment,1160.0,Alfred And Lau,840,4.5,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '󰀄
+84 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 shared bath'"", "" '\U000f0004\n84 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+133,136.0,Manhattan,"NYC,Modern and Spacious Apt",Entire apartment,1400.0,Iryna,1380,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+271 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n271 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+134,137.0,Manhattan,Big Room W/2 Beds & A/C unit. 15 min to Manhattan!,Private room in apartment,900.0,Darko,330,4.5,"['4 guests', '1 bedroom', '2 beds', '1 shared bath', '󰀄
+127 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 shared bath'"", "" '\U000f0004\n127 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+135,138.0,Manhattan,Cozy studio perfectly located,Entire apartment,950.0,Elia,670,4.0,"['4 guests', 'Studio', '2 beds', '1 bath', '󰀄
+67 Reviews']","[""['4 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n67 Reviews']""]",[,"""",[,',,,
+136,140.0,Manhattan,Perfect Times Square 1 bedroom,Entire apartment,1220.0,James,1180,5.0,"['3 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+305 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n305 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+137,141.0,Manhattan,Soho - Beautiful 3 Bedroom,Entire apartment,2660.0,Kathrin,2200,4.5,"['5 guests', '3 bedrooms', '3 beds', '2 baths', '󰀄
+221 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '3 bedrooms'"", "" '3 beds'"", "" '2 baths'"", "" '\U000f0004\n221 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+138,142.0,Manhattan,Modern Furnished Studio APT- Midtown NYC!! ~303~,Entire apartment,1400.0,Gispan,960,4.5,"['4 guests', 'Studio', '3 beds', '1 bath', '󰀄
+97 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n97 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+139,143.0,Manhattan,â PERFECT MANHATTAN LOCATION NEAR SUBWAY & CAFES!â,Entire apartment,1390.0,Jenny,2720,4.5,"['4 guests', '2 bedrooms', '2 beds', '1 bath', '󰀄
+354 Reviews', '󱄁
+1 Reference', '󰀙
+Verified']","[""['4 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n354 Reviews'"", "" '\U000f1101\n1 Reference'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+140,144.0,Manhattan,Best Views in Heart of Times Square,Entire apartment,3420.0,Frank,1600,5.0,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+85 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n85 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+141,145.0,Manhattan,Cozy 2 Bedroom APT in the Center of Herald SQ! 4R,Entire apartment,1370.0,Il Kwon,160,4.5,"['4 guests', '2 bedrooms', '3 beds', '1 bath', '󰀄
+147 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n147 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+142,146.0,Manhattan,Garden Oasis Apartment - 2 bedroom,Entire apartment,2000.0,Julia,1570,4.5,"['6 guests', '2 bedrooms', '3 beds', '1 bath', '󰀄
+159 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n159 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+143,147.0,Manhattan,Quiet Soho/Nolita Garden Alcove Studio,Entire apartment,1530.0,Deeva,1550,5.0,"['3 guests', 'Studio', '1 bed', '1 bath', '󰀄
+189 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" 'Studio'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n189 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+144,148.0,Manhattan,HUGE East Village 2 Bd w/Priv Yard,Entire condominium,1990.0,Deborah,2320,4.5,"['6 guests', '2 bedrooms', '3 beds', '1 bath', '󰀄
+234 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n234 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+145,149.0,Manhattan,SPACIOUS BEDROOM AND PRIVATE BATH!!!,Private room in apartment,1400.0,Steve,2320,5.0,"['3 guests', '1 bedroom', '1 bed', '1 private bath', '󰀄
+233 Reviews', '󱄁
+2 References', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 private bath'"", "" '\U000f0004\n233 Reviews'"", "" '\U000f1101\n2 References'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+146,150.0,Manhattan,A Perfect Match! The NYC All-Rounder Apartment,Entire apartment,2100.0,Suzanne,360,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+36 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n36 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+147,151.0,Manhattan,"Room with the balcony, fits 3!",Private room in apartment,1020.0,Simon,960,4.5,"['3 guests', '1 bedroom', '1 bed', '1 shared bath', '󰀄
+219 Reviews']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 shared bath'"", "" '\U000f0004\n219 Reviews']""]",[,"""",[,',,,
+148,152.0,Manhattan,Live in New York Near Central Park and Columbia U.,Entire apartment,1400.0,Mekkie,760,5.0,"['4 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+84 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n84 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+149,153.0,Manhattan,Sunny Room with Private Bath; Prime LES/Chinatown,Private room in apartment,1100.0,Tara,940,5.0,"['3 guests', '1 bedroom', '1 bed', '1 private bath', '󰀄
+210 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 private bath'"", "" '\U000f0004\n210 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+150,154.0,Manhattan,Vibrant Brownstone Penthouse Near Central Park,Entire apartment,1520.0,John,1160,5.0,"['6 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+127 Reviews', '󱄁
+2 References', '󰀙
+Verified']","[""['6 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n127 Reviews'"", "" '\U000f1101\n2 References'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+151,155.0,Manhattan,Columbia University/ Upper west/Steps CentralPark,Entire apartment,900.0,Miguel,120,5.0,"['8 guests', '2 bedrooms', '2 beds', '1 bath', '󰀄
+34 Reviews', '󰀙
+Verified']","[""['8 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n34 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+152,156.0,Manhattan,Master bedroom. 20 min. train to Time Square!,Private room in apartment,920.0,Angelica,550,5.0,"['4 guests', '1 bedroom', '3 beds', '1 shared bath', '󰀄
+117 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 shared bath'"", "" '\U000f0004\n117 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+153,157.0,Manhattan,Location Location Location!!!!,Entire apartment,1850.0,Al,1670,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+168 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n168 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+154,158.0,Manhattan,Manhattan Townhouse Apt -2 blocks to Subway,Entire apartment,2040.0,Lisa,1170,5.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+185 Reviews', '󱄁
+3 References']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n185 Reviews'"", "" '\U000f1101\n3 References']""]",[,"""",[,',,,
+155,159.0,Manhattan,Cozy apartment near Central Park,Entire apartment,2030.0,Klara,950,4.5,"['5 guests', '2 bedrooms', '3 beds', '1 bath', '󰀄
+101 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n101 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+156,160.0,Manhattan,NYC Private 1BR Apartment - 116th Street,Entire apartment,1280.0,Dustin,410,4.5,"['3 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+44 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n44 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+157,161.0,Manhattan,Harlem Style Spacious and Sunny,Entire apartment,1540.0,M. Elizabeth,1170,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+117 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n117 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+158,162.0,Manhattan,Manhattan Townhouse Apt -2 blocks to Subway,Entire apartment,2040.0,Lisa,1170,5.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+185 Reviews', '󱄁
+3 References']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n185 Reviews'"", "" '\U000f1101\n3 References']""]",[,"""",[,',,,
+159,163.0,Manhattan,Vibrant Brownstone Penthouse Near Central Park,Entire apartment,1520.0,John,1160,5.0,"['6 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+127 Reviews', '󱄁
+2 References', '󰀙
+Verified']","[""['6 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n127 Reviews'"", "" '\U000f1101\n2 References'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+160,164.0,Manhattan,Harlem Style Spacious and Sunny,Entire apartment,1540.0,M. Elizabeth,1170,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+117 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n117 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+161,165.0,Manhattan,Sunny Two Bed in Prime Lower East Side/Chinatown:),Private room in apartment,1100.0,Tara,1090,4.5,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '󰀄
+210 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 shared bath'"", "" '\U000f0004\n210 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+162,166.0,Manhattan,Cozy midtown apt next to metro & Empire State bldg,Entire apartment,1010.0,Spencer,660,4.5,"['3 guests', 'Studio', '1 bed', '1 bath', '󰀄
+66 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" 'Studio'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n66 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+163,167.0,Manhattan,"Apt in Little Italy/Chinatown, Lower Manhattan",Entire apartment,1800.0,Moying,230,5.0,"['5 guests', '2 bedrooms', '2 beds', '1 bath', '󰀄
+59 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n59 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+164,168.0,Manhattan,Comfy NYC Studio 15 Min. To Midtown,Entire apartment,1250.0,Terrence,1890,4.5,"['3 guests', 'Studio', '2 beds', '1 bath', '󰀄
+190 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n190 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+165,169.0,Manhattan,STUDIO East village âOwn bath!â,Entire apartment,1490.0,Seith,2670,4.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+939 Reviews', '󱄁
+1 Reference', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n939 Reviews'"", "" '\U000f1101\n1 Reference'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+166,170.0,Manhattan,"Prime location, Renovated,Inspiring",Entire apartment,1900.0,Elena,1190,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+124 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n124 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+167,171.0,Manhattan,Huge Room in East Harlem on Madison Avenue,Private room in townhouse,1000.0,Kelvin,730,5.0,"['3 guests', '1 bedroom', '1 bed', '1.5 shared baths', '󰀄
+101 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1.5 shared baths'"", "" '\U000f0004\n101 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+168,172.0,Manhattan,1 bedroom with 3 beds in the heart of Times Square,Entire apartment,1500.0,Kerri,640,5.0,"['4 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+64 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n64 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+169,173.0,Manhattan,Cozy apartment in Central Park North,Entire apartment,1350.0,Hafou,480,4.0,"['3 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+49 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n49 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+170,174.0,Manhattan,Amazing Sunny Apartment in the Lower East Side,Entire apartment,1690.0,Todd,770,4.5,"['3 guests', 'Studio', '1 bed', '1 bath', '󰀄
+93 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" 'Studio'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n93 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+171,176.0,Manhattan,Spacious Apt in Townhouse near Columbia University,Entire apartment,1330.0,Emilie,950,5.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+98 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n98 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+172,177.0,Manhattan,Lovely 2-bedroom 1bath in Chinatown & Little Italy,Entire apartment,1350.0,Carmen,1290,4.5,"['4 guests', '2 bedrooms', '4 beds', '1 bath', '󰀄
+129 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '2 bedrooms'"", "" '4 beds'"", "" '1 bath'"", "" '\U000f0004\n129 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+173,178.0,Manhattan,Newly Renovated 1 Bedroom Apartment Hell's Kitchen,Entire apartment,1690.0,Elgin,910,5.0,"['4 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+98 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n98 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+174,179.0,Manhattan,Comfy room in Manhattan 4 blocks from central park,Private room in apartment,1100.0,Elias,480,4.5,"['4 guests', '1 bedroom', '1 bed', '1 shared bath', '󰀄
+67 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 shared bath'"", "" '\U000f0004\n67 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+175,180.0,Manhattan,Amazing Sunny Apartment in the Lower East Side,Entire apartment,1690.0,Todd,770,4.5,"['3 guests', 'Studio', '1 bed', '1 bath', '󰀄
+93 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" 'Studio'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n93 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+176,181.0,Manhattan,Huge 3 Bedroom Apartment in Times Square,Entire apartment,2950.0,Mark,650,4.5,"['6 guests', '3 bedrooms', '3 beds', '1 bath', '󰀄
+179 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '3 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n179 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+177,182.0,Manhattan,Family Place inâ¤ï¸â¤ï¸of Manhattan âTimes Squareâââââ,Entire apartment,2780.0,Alex,1330,4.5,"['5 guests', '2 bedrooms', '3 beds', '1 bath', '󰀄
+12 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n12 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+178,183.0,Manhattan,Spacious Apt in Townhouse near Columbia University,Entire apartment,1330.0,Emilie,950,5.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+98 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n98 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+179,184.0,Manhattan,MANHATTAN NEWLY RENOVATED SPACIOUS MODERN FLAT!,Entire apartment,1800.0,Emmanuel,200,4.5,"['6 guests', '2 bedrooms', '2 beds', '1 bath', '󰀄
+22 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n22 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+180,185.0,Manhattan,"Close to Central Park,renovated quite studio A",Entire apartment,1490.0,Aron,500,5.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+96 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n96 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+181,186.0,Manhattan,Sunny Little Brownstone on Central Park West,Entire loft,1500.0,Shannon,1300,5.0,"['3 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+154 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n154 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+182,187.0,Manhattan,Stunning 2 BR Apartment Steps to the UN,Entire apartment,1800.0,Noa,1160,4.5,"['5 guests', '2 bedrooms', '3 beds', '1 bath', '󰀄
+124 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n124 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+183,189.0,Manhattan,Spacious 1 BDRM near Central Park,Entire apartment,1950.0,Michael,1740,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+183 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n183 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+184,190.0,Manhattan,"Times Square,center of New York City,7 mins walk!",Entire apartment,1690.0,Grayson,1170,5.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+323 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n323 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+185,191.0,Manhattan,Airy Apartment in Times Square,Private room in apartment,990.0,Lina,80,5.0,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '󰀄
+145 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 shared bath'"", "" '\U000f0004\n145 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+186,192.0,Manhattan,Modern 1 bedroom GREAT location,Entire apartment,2390.0,Tina,1660,4.5,"['6 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+178 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n178 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+187,193.0,Manhattan,COZY 2BDR APT- TIMES SQ / MIDTOWN WEST,Entire apartment,1500.0,Ed &Alexa,590,4.5,"['6 guests', '2 bedrooms', '3 beds', '1 bath', '󰀄
+1429 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n1429 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+188,194.0,Manhattan,Private Studio Apartment in a Historic Brownstone,Private room in townhouse,1240.0,Jacob,1230,4.5,"['4 guests', 'Studio', '2 beds', '1 private bath', '󰀄
+874 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 private bath'"", "" '\U000f0004\n874 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+189,195.0,Manhattan,Cute Room in Lower East Side!,Private room in apartment,680.0,Kate,1100,4.5,"['3 guests', '1 bedroom', '1 bed', '1 shared bath', '󰀄
+255 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 shared bath'"", "" '\U000f0004\n255 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+190,196.0,Manhattan,New York Chelsea apartment,Entire apartment,1450.0,Sonia,200,4.5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+20 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n20 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+191,197.0,Manhattan,Amazing and large 1 bedroom in the heart of NYC,Entire apartment,1250.0,Yasmin,100,4.0,"['6 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+10 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n10 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+192,198.0,Manhattan,Charming Bedroom in Harlem,Private room in apartment,1400.0,Charles,3130,5.0,"['3 guests', '1 bedroom', '2 beds', '1.5 shared baths', '󰀄
+313 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1.5 shared baths'"", "" '\U000f0004\n313 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+193,199.0,Manhattan,Stylish 2BR â Sleeps 6 â C.Park,Entire apartment,1900.0,Gilad,1090,4.0,"['6 guests', '2 bedrooms', '3 beds', '1 bath', '󰀄
+109 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n109 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+194,200.0,Manhattan,COZY STUDIO Upper West Side,Entire apartment,1990.0,Petrina,730,5.0,"['4 guests', 'Studio', '2 beds', '1 bath', '󰀄
+73 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n73 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+195,201.0,Manhattan,CLEAN & COZY EAST VILLAGE PAD,Entire apartment,1550.0,Lina,1530,4.5,"['3 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+569 Reviews', '󱄁
+1 Reference', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n569 Reviews'"", "" '\U000f1101\n1 Reference'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+196,202.0,Manhattan,Clean Apartment in A Warm Home,Entire apartment,690.0,AGood,1210,5.0,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+121 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n121 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+197,203.0,Manhattan,Full Apartment on Central Park in Vibrant Harlem,Entire apartment,1210.0,Britt,740,4.5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+74 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n74 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+198,204.0,Manhattan,Luxury spacious quiet 1 bedroom by Columbus Circle,Entire apartment,1790.0,Elena,620,5.0,"['6 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+77 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n77 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+199,205.0,Manhattan,"Luxury Astoria 1BD apt, 20min from Manhattan",Entire apartment,1300.0,Vadim,570,5.0,"['4 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+204 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n204 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+200,206.0,Manhattan,"Clean/Quiet Apt, Great Location, with washer/dryer",Entire apartment,930.0,David,1930,4.5,"['4 guests', 'Studio', '2 beds', '1 bath', '󰀄
+193 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n193 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+201,207.0,Manhattan,New Modern 1 Bedroom Apt - Hip Downtown Manhattan,Entire apartment,2400.0,Mike,2080,5.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+210 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n210 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+202,208.0,Manhattan,Your Own Private Entrance Studio in Stylish Duplex,Private room in apartment,1090.0,Yamil,780,5.0,"['4 guests', '1 bedroom', '1 bed', '1.5 private baths', '󰀄
+79 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1.5 private baths'"", "" '\U000f0004\n79 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+203,210.0,Manhattan,quaint village apartment for up to 6,Entire apartment,2250.0,Jacqueline,690,4.5,"['6 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+166 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n166 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+204,211.0,Manhattan,New York City Historical Brownstone First Floor.,Entire apartment,270.0,Naima,2310,5.0,"['6 guests', '2 bedrooms', '3 beds', '2 baths', '󰀄
+488 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '2 baths'"", "" '\U000f0004\n488 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+205,212.0,Manhattan,Amazing East Village Xtra Large Studio Apartment!,Entire apartment,2050.0,Joseph,1000,4.5,"['4 guests', 'Studio', '2 beds', '1 bath', '󰀄
+126 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n126 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+206,213.0,Manhattan,UES Renovated Safe Location,Entire apartment,1480.0,Marvin,590,5.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+87 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n87 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+207,214.0,Manhattan,Spacious room w/Private Roof Deck in Shared Apt,Private room in apartment,1720.0,Apeksha,1210,5.0,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '󰀄
+121 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 shared bath'"", "" '\U000f0004\n121 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+208,215.0,Manhattan,Sunny Private Room at Central Park!,Private room in apartment,1200.0,Saint,1940,5.0,"['3 guests', '1 bedroom', '1 bed', '1 shared bath', '󰀄
+197 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 shared bath'"", "" '\U000f0004\n197 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+209,216.0,Manhattan,Amazing East Village Xtra Large Studio Apartment!,Entire apartment,2050.0,Joseph,1000,4.5,"['4 guests', 'Studio', '2 beds', '1 bath', '󰀄
+126 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n126 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+210,217.0,Manhattan,"Sunny 1 Bedroom Apt, Lower East Side, Manhattan",Private room in apartment,1400.0,Lilly,700,4.5,"['3 guests', '1 bedroom', '1 bed', '1 private bath', '󰀄
+78 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 private bath'"", "" '\U000f0004\n78 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+211,218.0,Manhattan,Union Square East,Entire apartment,910.0,Stanton St,360,4.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+37 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n37 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+212,219.0,Manhattan,Harlem Brownstone Retreat Suite,Entire apartment,1400.0,Lana,680,5.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+68 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n68 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+213,220.0,Manhattan,"Perfect Harlem, New York Retreat",Entire apartment,1690.0,Ferris,3120,4.5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+320 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n320 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+214,221.0,Manhattan,quaint village apartment for up to 6,Entire apartment,2250.0,Jacqueline,690,4.5,"['6 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+166 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n166 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+215,222.0,Manhattan,"Cozy Room in Astoria,15min with Ferry To Manhattan",Private room in apartment,750.0,Darko,300,4.5,"['3 guests', '1 bedroom', '1 bed', '1 shared bath', '󰀄
+127 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 shared bath'"", "" '\U000f0004\n127 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+216,223.0,Manhattan,COZY ONE BEDROOM APARTMENT IN MANHATTAN,Entire apartment,1560.0,Liza,690,5.0,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+70 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n70 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+217,224.0,Manhattan,Charming Family Style Brownstone Apartment,Entire apartment,2190.0,Katiuscia,530,4.5,"['6 guests', '1 bedroom', '3 beds', '2 baths', '󰀄
+54 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '2 baths'"", "" '\U000f0004\n54 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+218,225.0,Manhattan,Stylish 1 Bedroom w/terrace perfect location,Entire apartment,2490.0,Jack,1380,4.5,"['6 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+138 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n138 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+219,226.0,Manhattan,Heart of Manhattan,Entire apartment,1790.0,Diane,330,5.0,"['3 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+33 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n33 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+220,227.0,Manhattan,Spacious Stylish 2 br duplex in HK ft from Time SQ,Entire apartment,3500.0,Luis,1050,5.0,"['6 guests', '2 bedrooms', '3 beds', '1.5 baths', '󰀄
+105 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '1.5 baths'"", "" '\U000f0004\n105 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+221,228.0,Manhattan,2 Bedrooms & 2 Bathrooms Apt in Hell's Kitchen,Entire apartment,2410.0,Alex G,2540,4.5,"['6 guests', '2 bedrooms', '3 beds', '2 baths', '󰀄
+474 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '2 baths'"", "" '\U000f0004\n474 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+222,229.0,Manhattan,Modern 1 Bedroom 4FL w/Marble Bthr,Entire apartment,1500.0,Tny,80,5.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+75 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n75 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+223,230.0,Manhattan,Fabulously Located Comfortable 3 Bedroom Loft,Entire loft,2530.0,E.C.,460,4.5,"['8 guests', '3 bedrooms', '6 beds', '1 bath', '󰀄
+46 Reviews', '󰀙
+Verified']","[""['8 guests'"", "" '3 bedrooms'"", "" '6 beds'"", "" '1 bath'"", "" '\U000f0004\n46 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+224,231.0,Manhattan,Manhattan Upper East Side 1bedroom,Entire apartment,1740.0,Susie,1810,4.5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+245 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n245 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+225,232.0,Manhattan,Prime Location Sun Filled West Village Townhome,Entire apartment,2020.0,Cate,1830,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+330 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n330 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+226,233.0,Manhattan,Amazing Downtown With Rooftop,Entire apartment,2280.0,Jake,2110,4.5,"['3 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+492 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n492 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+227,234.0,Manhattan,Fabulously Located Comfortable 3 Bedroom Loft,Entire loft,2530.0,E.C.,460,4.5,"['8 guests', '3 bedrooms', '6 beds', '1 bath', '󰀄
+46 Reviews', '󰀙
+Verified']","[""['8 guests'"", "" '3 bedrooms'"", "" '6 beds'"", "" '1 bath'"", "" '\U000f0004\n46 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+228,235.0,Manhattan,Amazing Downtown With Rooftop,Entire apartment,2280.0,Jake,2110,4.5,"['3 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+492 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n492 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+229,236.0,Manhattan,Authentic Midtown Manhattan Studio,Entire apartment,1350.0,Vicente,310,5.0,"['4 guests', 'Studio', '2 beds', '1 bath', '󰀄
+53 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n53 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+230,237.0,Manhattan,DaDukes Dreams,Private room in house,850.0,Alberto,660,5.0,"['4 guests', '1 bedroom', '3 beds', '2 shared baths', '󰀄
+398 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '2 shared baths'"", "" '\U000f0004\n398 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+231,238.0,Manhattan,1 Bedroom/1 Livingroom on 21st and 8th in Chelsea,Entire apartment,1450.0,Katie Knapp,330,5.0,"['3 guests', '2 bedrooms', '3 beds', '1 bath', '󰀄
+33 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n33 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+232,239.0,Manhattan,Manhattan Upper East Side 1bedroom,Entire apartment,1740.0,Susie,1810,4.5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+245 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n245 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+233,240.0,Manhattan,"Light, Large Apt Near Central Park",Entire apartment,1950.0,Jane,1640,4.5,"['7 guests', '3 bedrooms', '3 beds', '1 bath', '󰀄
+391 Reviews', '󰀙
+Verified']","[""['7 guests'"", "" '3 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n391 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+234,241.0,Manhattan,Entire 1BR Apt in Manhattanville,Entire condominium,940.0,Corey,610,4.5,"['4 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+64 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n64 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+235,242.0,Manhattan,Room can fit 3 people in Manhattan close to subway,Private room in apartment,650.0,Julianna,120,5.0,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '󰀄
+52 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 shared bath'"", "" '\U000f0004\n52 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+236,243.0,Manhattan,"Sunny West Village apt, 2 beds",Entire apartment,1500.0,Aspen,310,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+43 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n43 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+237,244.0,Manhattan,Paradise in New York City 2,Entire apartment,270.0,Shama,130,5.0,"['6 guests', '2 bedrooms', '3 beds', '2 baths', '󰀄
+81 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '2 baths'"", "" '\U000f0004\n81 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+238,245.0,Manhattan,Beautiful Apartment near Times Square Central Park,Entire apartment,2410.0,Ash,940,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+94 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n94 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+239,246.0,Manhattan,1 BEDROOM SUITE IN HARLEM FAMILY TOWNHOUSE,Entire apartment,2000.0,Maribel,1750,5.0,"['4 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+182 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n182 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+240,247.0,Manhattan,Great renovated studio in the heart of Manhattan,Entire apartment,1450.0,Shirley,740,4.5,"['4 guests', 'Studio', '2 beds', '1 bath', '󰀄
+74 Reviews']","[""['4 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n74 Reviews']""]",[,"""",[,',,,
+241,248.0,Manhattan,Modern Clean Studio 2 blocks from Central Park,Entire apartment,1450.0,Eugene,1640,4.5,"['4 guests', 'Studio', '0 beds', '1 bath', '󰀄
+1065 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '0 beds'"", "" '1 bath'"", "" '\U000f0004\n1065 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+242,249.0,Manhattan,"Quiet, tranquil room in the middle of everything!",Private room in apartment,1490.0,Eddie,1210,4.5,"['4 guests', '1 bedroom', '1 bed', '2 shared baths', '󰀄
+1 Review', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '2 shared baths'"", "" '\U000f0004\n1 Review'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+243,250.0,Manhattan,Fascinating Modern Apartment - 5 mins Time Square,Entire apartment,2000.0,Edison,1210,4.5,"['6 guests', '2 bedrooms', '4 beds', '1 bath', '󰀄
+147 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '2 bedrooms'"", "" '4 beds'"", "" '1 bath'"", "" '\U000f0004\n147 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+244,251.0,Manhattan,"Beautiful spacious one bedroom, upper east side",Entire apartment,1800.0,Julia,920,5.0,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+92 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n92 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+245,252.0,Manhattan,"Beautiful spacious one bedroom, upper east side",Entire apartment,1800.0,Julia,920,5.0,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+92 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n92 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+246,253.0,Manhattan,Large 1 bedroom loft GREAT location,Entire apartment,2890.0,Chi,1470,4.5,"['8 guests', '1 bedroom', '4 beds', '1 bath', '󰀄
+162 Reviews', '󰀙
+Verified']","[""['8 guests'"", "" '1 bedroom'"", "" '4 beds'"", "" '1 bath'"", "" '\U000f0004\n162 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+247,254.0,Manhattan,MODERN STYLISH PENTHOUSE SUITE @ CENTRAL PARK,Entire apartment,1660.0,Gregory,520,5.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+147 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n147 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+248,255.0,Manhattan,Sophisticated Harlem True 2BR NYC,Entire apartment,1950.0,Enid,1330,5.0,"['4 guests', '2 bedrooms', '2 beds', '1 bath', '󰀄
+136 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n136 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+249,256.0,Manhattan,Mins to SOHO-Good sized 2 Bdrms w/ real comfy beds,Entire apartment,1810.0,Kandee,1350,4.5,"['6 guests', '2 bedrooms', '4 beds', '1 bath', '󰀄
+188 Reviews', '󱄁
+1 Reference', '󰀙
+Verified']","[""['6 guests'"", "" '2 bedrooms'"", "" '4 beds'"", "" '1 bath'"", "" '\U000f0004\n188 Reviews'"", "" '\U000f1101\n1 Reference'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+250,257.0,Manhattan,Cool room in Manhattan - Comfortable for 3 guests,Private room in apartment,1950.0,Ana,1390,4.5,"['3 guests', '1 bedroom', '3 beds', '1 shared bath', '󰀄
+334 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 shared bath'"", "" '\U000f0004\n334 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+251,258.0,Manhattan,"New Apt near Central Park, Broadway, Museums",Entire apartment,1450.0,Angela,580,4.5,"['3 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+64 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n64 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+252,259.0,Manhattan,2 BR in Times Sq: The heart of NYC,Entire apartment,2750.0,Layka,1920,4.5,"['4 guests', '2 bedrooms', '2 beds', '1 bath', '󰀄
+344 Reviews', '󱄁
+4 References', '󰀙
+Verified']","[""['4 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n344 Reviews'"", "" '\U000f1101\n4 References'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+253,260.0,Manhattan,"BEST LOWER EAST SIDE APT, SLEEPS 4",Entire apartment,2450.0,Ren,2090,4.5,"['4 guests', '2 bedrooms', '2 beds', '1 bath', '󰀄
+252 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n252 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+254,261.0,Manhattan,Beautiful GRDN Apt Chelsea Meatpacking Min 30 days,Entire townhouse,2500.0,Vanessa,1950,5.0,"['4 guests', '2 bedrooms', '3 beds', '1 bath', '󰀄
+200 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n200 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+255,262.0,Manhattan,Luxury Apt in EV - 2 Spacious BR + 2 Full Bath!!,Entire apartment,1990.0,Em,1700,5.0,"['5 guests', '2 bedrooms', '2 beds', '2 baths', '󰀄
+180 Reviews', '󱄁
+6 References', '󰀙
+Verified']","[""['5 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '2 baths'"", "" '\U000f0004\n180 Reviews'"", "" '\U000f1101\n6 References'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+256,263.0,Manhattan,LARGE LOFT STUDIO- CENTER MANHATTAN,Entire apartment,1490.0,Ale,1460,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+152 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n152 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+257,264.0,Manhattan,Great studio in Hells Kitchen!!!,Entire apartment,1490.0,Greg,590,4.5,"['4 guests', 'Studio', '2 beds', '1 bath', '󰀄
+59 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n59 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+258,265.0,Manhattan,UNBEATABLE LOCATION/TIMES SQUARE!,Entire apartment,2390.0,Leo,1370,4.5,"['4 guests', '2 bedrooms', '0 beds', '1 bath', '󰀄
+137 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '2 bedrooms'"", "" '0 beds'"", "" '1 bath'"", "" '\U000f0004\n137 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+259,266.0,Manhattan,Quaint and Large midtown 1Bed next to Empire state,Entire apartment,1540.0,Jamie,800,5.0,"['5 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+80 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n80 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+260,267.0,Manhattan,Spacious 1 BR Apartment - Sleeps 4,Entire apartment,2200.0,Patrick,1800,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+189 Reviews', '󱄁
+2 References', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n189 Reviews'"", "" '\U000f1101\n2 References'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+261,268.0,Manhattan,THE SMALL ENGLISH MANOR NESTLED AMONGST THE TREES,Entire apartment,1650.0,Emma,1140,5.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+114 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n114 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+262,269.0,Manhattan,Fun Unique Spacious Midtown Getaway,Entire apartment,2450.0,William,1410,4.5,"['6 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+142 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n142 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+263,270.0,Manhattan,Beautiful Apartment near Times Square Central Park,Entire apartment,2410.0,Ash,940,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+94 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n94 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+264,271.0,Manhattan,Entire floor. Private bathroom. Great location.,Private room in apartment,1490.0,Elena,1840,4.5,"['3 guests', '1 bedroom', '3 beds', '1 private bath', '󰀄
+300 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 private bath'"", "" '\U000f0004\n300 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+265,272.0,Manhattan,Stunning 2bed/2bath Steps to Central Park,Entire apartment,1990.0,Chris,310,4.5,"['8 guests', '2 bedrooms', '2 beds', '2 baths', '󰀄
+45 Reviews', '󰀙
+Verified']","[""['8 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '2 baths'"", "" '\U000f0004\n45 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+266,273.0,Manhattan,Charming Duplex in Manhattan,Entire apartment,1550.0,Chito And Xavier,770,5.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+169 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n169 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+267,274.0,Manhattan,Bright and stylish bedroom 20min from Times Square,Private room in condominium,720.0,Max And Kathy,220,5.0,"['4 guests', '1 bedroom', '2 beds', '2 shared baths', '󰀄
+89 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '2 shared baths'"", "" '\U000f0004\n89 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+268,275.0,Manhattan,Unique Spacious 2BDR in NOLITA,Entire apartment,1920.0,Jay,1630,5.0,"['4 guests', '2 bedrooms', '2 beds', '1 bath', '󰀄
+175 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n175 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+269,276.0,Manhattan,Artsy Harlem Guest Space,Entire guest suite,1250.0,Laura,2240,4.5,"['4 guests', 'Studio', '3 beds', '1 bath', '󰀄
+224 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n224 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+270,277.0,Manhattan,Beautiful APT in the HEART of Manhattan!!!!,Entire apartment,1420.0,Salvatore,2200,4.5,"['3 guests', 'Studio', '2 beds', '1 bath', '󰀄
+245 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n245 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+271,278.0,Manhattan,Lovely Deluxe Studio near Lincoln Center,Entire apartment,1910.0,Albar,2260,4.5,"['5 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+237 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n237 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+272,279.0,Manhattan,Gorgeous Renovated 1BR - close to Central Park,Entire apartment,1400.0,Kate,780,4.5,"['6 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+78 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n78 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+273,280.0,Manhattan,"Big 1st Meal, Kind Host, Ace Space",Private room in apartment,1340.0,Nancy,3140,4.5,"['3 guests', '2 bedrooms', '3 beds', '1 shared bath', '󰀄
+328 Reviews', '󱄁
+3 References', '󰀙
+Verified']","[""['3 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '1 shared bath'"", "" '\U000f0004\n328 Reviews'"", "" '\U000f1101\n3 References'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+274,281.0,Manhattan,UNBEATABLE LOCATION/TIMES SQUARE!,Entire apartment,2390.0,Leo,1370,4.5,"['4 guests', '2 bedrooms', '0 beds', '1 bath', '󰀄
+137 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '2 bedrooms'"", "" '0 beds'"", "" '1 bath'"", "" '\U000f0004\n137 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+275,282.0,Manhattan,NYC Bedroom in Amazing Location!,Private room in apartment,1330.0,Sterling,1430,5.0,"['4 guests', '1 bedroom', '3 beds', '1 shared bath', '󰀄
+322 Reviews']","[""['4 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 shared bath'"", "" '\U000f0004\n322 Reviews']""]",[,"""",[,',,,
+276,283.0,Manhattan,Full Floor Apt 3Br in Times Sq,Entire apartment,3780.0,Andrea,1600,4.5,"['6 guests', '3 bedrooms', '4 beds', '1 bath', '󰀄
+162 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '3 bedrooms'"", "" '4 beds'"", "" '1 bath'"", "" '\U000f0004\n162 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+277,284.0,Manhattan,Sunny & Clean- Soho/west village loft,Entire apartment,1690.0,Candy,140,4.5,"['6 guests', '3 bedrooms', '3 beds', '1 bath', '󰀄
+14 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '3 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n14 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+278,285.0,Manhattan,[205] 5 min WALK to Times Square,Private room in apartment,2100.0,Yasu & Akiko,1750,4.5,"['4 guests', '1 bedroom', '2 beds', '1 private bath', '󰀄
+1875 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 private bath'"", "" '\U000f0004\n1875 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+279,286.0,Manhattan,NYC Top-Floor Mid-Town Apartment (new openings!),Private room in apartment,1900.0,Chuck,210,5.0,"['5 guests', '1 bedroom', '2 beds', '1 private bath', '󰀄
+21 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 private bath'"", "" '\U000f0004\n21 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+280,287.0,Manhattan,Upper East Chic 1BR Apartment Near Central Park,Entire apartment,1690.0,Song,300,4.5,"['4 guests', '1 bedroom', '3 beds', '1 bath', '󰀄
+31 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n31 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+281,288.0,Manhattan,Beautiful 1BR Apt near Time Square,Entire apartment,1800.0,Lance,480,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+51 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n51 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+282,289.0,Manhattan,Cute private space in an Awesome Location,Entire condominium,1800.0,Fred,1480,4.0,"['4 guests', 'Studio', '2 beds', '1 bath', '󰀄
+148 Reviews']","[""['4 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n148 Reviews']""]",[,"""",[,',,,
+283,290.0,Manhattan,NYC Top-Floor Mid-Town Apartment (new openings!),Private room in apartment,1900.0,Chuck,210,5.0,"['5 guests', '1 bedroom', '2 beds', '1 private bath', '󰀄
+21 Reviews', '󰀙
+Verified']","[""['5 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 private bath'"", "" '\U000f0004\n21 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+284,291.0,Manhattan,Charming 1BR Apartment close to Time Square,Entire apartment,1700.0,Jose,1150,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+118 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n118 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+285,292.0,Manhattan,Pleasant UpperEastSide Townhouse Garden Studio,Entire house,1390.0,Kate,800,4.5,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+662 Reviews']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n662 Reviews']""]",[,"""",[,',,,
+286,293.0,Manhattan,QUAINT HELL'S KITCHEN STUDIO!!!,Entire apartment,1690.0,Kevin,1590,4.5,"['4 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+160 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n160 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+287,294.0,Manhattan,Heart of the West,Entire apartment,1800.0,Ash,30,5.0,"['4 guests', '1 bedroom', '1 bed', '1 bath', '󰀄
+230 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 bath'"", "" '\U000f0004\n230 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+288,295.0,Manhattan,Sunny & Clean- Soho/west village loft,Entire apartment,1690.0,Candy,140,4.5,"['6 guests', '3 bedrooms', '3 beds', '1 bath', '󰀄
+14 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '3 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n14 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+289,296.0,Manhattan,Landmark 2 Bedroom West Village NYC,Entire apartment,2250.0,West Village,1430,4.5,"['4 guests', '2 bedrooms', '2 beds', '1 bath', '󰀄
+392 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '2 bedrooms'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n392 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+290,297.0,Manhattan,East Village Bed & Breakfast - Subway 2 short Blks,Private room in apartment,1240.0,Helen,1270,4.5,"['3 guests', '1 bedroom', '1 bed', '1 shared bath', '󰀄
+153 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '1 bed'"", "" '1 shared bath'"", "" '\U000f0004\n153 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+291,298.0,Manhattan,Private Room w/a Patio In Center of Manhattan!,Private room in apartment,1250.0,Teresa,510,4.5,"['3 guests', '1 bedroom', '2 beds', '1 shared bath', '󰀄
+138 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 shared bath'"", "" '\U000f0004\n138 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+292,299.0,Manhattan,Modern 1 Bedroom Apt - Trendy & Historic Downtown,Entire apartment,2300.0,John,1450,5.0,"['4 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+300 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n300 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+293,300.0,Manhattan,Beautiful Upper East Side Apartment,Entire apartment,1500.0,Eli,1290,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+162 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n162 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+294,301.0,Manhattan,Entire 2 bdrm/2 bth UWS/RiversdePrk,Entire apartment,1860.0,Mike,690,4.5,"['4 guests', '2 bedrooms', '3 beds', '2 baths', '󰀄
+73 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '2 baths'"", "" '\U000f0004\n73 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+295,302.0,Manhattan,Stylish & Inviting Brownstone Apt,Entire apartment,1800.0,Jennifer And Kenneth,1090,5.0,"['4 guests', 'Studio', '2 beds', '1 bath', '󰀄
+109 Reviews', '󰀙
+Verified']","[""['4 guests'"", "" 'Studio'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n109 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+296,303.0,Manhattan,One bedroom escape,Entire apartment,1300.0,Chuck,1040,4.5,"['3 guests', '1 bedroom', '2 beds', '1 bath', '󰀄
+104 Reviews', '󰀙
+Verified']","[""['3 guests'"", "" '1 bedroom'"", "" '2 beds'"", "" '1 bath'"", "" '\U000f0004\n104 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,
+297,305.0,Manhattan,Stylish & Spacious Apartment in Harlem Brownstone,Entire apartment,1470.0,Elisia,1030,4.5,"['6 guests', '2 bedrooms', '3 beds', '1 bath', '󰀄
+104 Reviews', '󰀙
+Verified']","[""['6 guests'"", "" '2 bedrooms'"", "" '3 beds'"", "" '1 bath'"", "" '\U000f0004\n104 Reviews'"", "" '\U000f0019\nVerified']""]",[,"""",[,',,,

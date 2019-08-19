@@ -1,0 +1,262 @@
+,city,hotel_name,acc_type,price,hotel_star,no_of_ratings,rating,occupancy,no_of_rooms,no_of_guests
+1,Manhattan,"The Surrey, New York",HOTEL,581,5.0,256,4.5,"1 room, 3 adults",1,3
+3,Manhattan,"Gramercy Park Hotel, New York",HOTEL,408,5.0,33,4.3,"1 room, 3 adults",1,3
+4,Manhattan,"Hotel Pennsylvania, New York",HOTEL,,2.5,6818,2.4,"1 room, 3 adults",1,3
+8,Manhattan,"DoubleTree by Hilton New York City - Financial District, New York",HOTEL,152,4.0,1071,3.8,"1 room, 3 adults",1,3
+9,Manhattan,"Residence Inn Marriott New York Downtown Manhattan/WTC Area, New York",HOTEL,148,3.5,623,4.5,"1 room, 3 adults",1,3
+10,Manhattan,"The Sherry Netherland, New York",HOTEL,45,4.5,163,4.8,"1 room, 3 adults",1,3
+11,Manhattan,"The Franklin Hotel, New York",HOTEL,207,3.5,544,3.4,"1 room, 3 adults",1,3
+12,Manhattan,"Orchard Street Hotel, New York",HOTEL,125,3.0,277,3.9,"1 room, 3 adults",1,3
+14,Manhattan,"Staybridge Suites Times Square, New York",HOTEL,125,3.5,162,4.2,"1 room, 3 adults",1,3
+16,Manhattan,"Fairfield Inn & Suites New York Manhattan/Downtown East, New York",HOTEL,11,2.5,237,4.3,"1 room, 3 adults",1,3
+18,Manhattan,"City Club Hotel, New York",HOTEL,12,4.0,865,4.3,"1 room, 3 adults",1,3
+19,Manhattan,"Best Western Plus Hospitality House, New York",HOTEL,150,2.5,212,4.4,"1 room, 3 adults",1,3
+20,Manhattan,"Holiday Inn Express New York City- Wall Street, New York",HOTEL,6,3.0,423,4.1,"1 room, 3 adults",1,3
+26,Manhattan,"W New York - Union Square, New York",HOTEL,314,4.5,234,4.3,"1 room, 3 adults",1,3
+28,Manhattan,"Four Seasons Hotel New York Downtown, New York",HOTEL,555,5.0,171,4.8,"1 room, 3 adults",1,3
+30,Manhattan,"Dylan Hotel NYC, New York",HOTEL,170,4.0,54,3.8,"1 room, 3 adults",1,3
+31,Manhattan,"The William, New York",HOTEL,17,4.0,18,4.6,"1 room, 3 adults",1,3
+34,Manhattan,"Refinery Hotel, New York",HOTEL,17,5.0,852,4.6,"1 room, 3 adults",1,3
+35,Manhattan,"The Chatwal, a Luxury Collection Hotel, New York City, New York",HOTEL,525,5.0,127,4.6,"1 room, 3 adults",1,3
+36,Manhattan,"Courtyard by Marriott New York Manhattan / Chelsea, New York",HOTEL,127,3.5,558,4.5,"1 room, 3 adults",1,3
+37,Manhattan,"Pod 39, New York",HOTEL,11,3.0,333,4.2,"1 room, 3 adults",1,3
+38,Manhattan,"Incentra Village Hotel, New York",HOTEL,188,3.0,73,4.1,"1 room, 3 adults",1,3
+40,Manhattan,"Hotel 48LEX New York, New York",HOTEL,187,4.5,480,4.2,"1 room, 3 adults",1,3
+41,Manhattan,"The Peninsula New York, New York",HOTEL,745,5.0,568,4.7,"1 room, 3 adults",1,3
+42,Manhattan,"GEM Hotel - Chelsea, New York",HOTEL,134,3.0,266,3.9,"1 room, 3 adults",1,3
+43,Manhattan,"Holiday Inn Express Manhattan Times Square South, New York",HOTEL,126,3.0,60,4.2,"1 room, 3 adults",1,3
+45,Manhattan,"Cambria Hotel New York - Times Square, New York",HOTEL,118,3.0,1023,4.5,"1 room, 3 adults",1,3
+46,Manhattan,"Chambers Hotel, New York",HOTEL,251,4.0,280,4.4,"1 room, 3 adults",1,3
+49,Manhattan,"NoMo SoHo, New York",HOTEL,148,4.5,885,4.2,"1 room, 3 adults",1,3
+50,Manhattan,"The Pierre, A Taj Hotel, New York, New York",HOTEL,55,5.0,267,4.7,"1 room, 3 adults",1,3
+54,Manhattan,"Hampton Inn New York - 35th Street - Empire State Building, New York",HOTEL,,3.0,63,4.3,"1 room, 3 adults",1,3
+56,Manhattan,"Hampton Inn Manhattan-Seaport-Financial District, New York",HOTEL,134,3.0,315,4.1,"1 room, 3 adults",1,3
+60,Manhattan,"The Manhattan at Times Square Hotel, New York",HOTEL,4,4.0,4077,3.1,"1 room, 3 adults",1,3
+61,Manhattan,"Renaissance New York Hotel 57, New York",HOTEL,146,4.0,73,4.1,"1 room, 3 adults",1,3
+63,Manhattan,"Soho Garden Hotel, New York",HOTEL,1,2.5,556,3.9,"1 room, 3 adults",1,3
+66,Manhattan,"1 Hotel Central Park, New York",HOTEL,28,5.0,61,4.6,"1 room, 3 adults",1,3
+67,Manhattan,"SIXTY SoHo, New York",HOTEL,15,4.5,200,4.6,"1 room, 3 adults",1,3
+68,Manhattan,"The Beekman, A Thompson Hotel, New York",HOTEL,32,5.0,455,4.7,"1 room, 3 adults",1,3
+69,Manhattan,"InterContinental - New York Times Square, New York",HOTEL,201,5.0,118,4.2,"1 room, 3 adults",1,3
+71,Manhattan,"Hilton Garden Inn New York/West 35th Street, New York",HOTEL,8,3.0,1406,4.4,"1 room, 3 adults",1,3
+72,Manhattan,"11 Howard, New York",HOTEL,21,5.0,375,4.3,"1 room, 3 adults",1,3
+75,Manhattan,"Holiday Inn Express New York - Manhattan West Side, New York",HOTEL,105,3.0,641,4.1,"1 room, 3 adults",1,3
+76,Manhattan,"Walker Hotel Greenwich Village, New York",HOTEL,235,4.5,266,4.4,"1 room, 3 adults",1,3
+77,Manhattan,"Seton Hotel, New York",HOTEL,100,3.0,777,4.1,"1 room, 3 adults",1,3
+78,Manhattan,"Windsor Hotel, New York",HOTEL,136,2.0,28,2.7,"1 room, 3 adults",1,3
+79,Manhattan,"Best Western Premier Herald Square, New York",HOTEL,110,3.0,1170,4.4,"1 room, 3 adults",1,3
+81,Manhattan,"The Surrey, New York",HOTEL,581,5.0,256,4.5,"1 room, 3 adults",1,3
+82,Manhattan,"The Watson Hotel, New York",HOTEL,4,3.5,405,3.9,"1 room, 3 adults",1,3
+84,Manhattan,"The Benjamin, New York",HOTEL,1,4.5,421,4.4,"1 room, 3 adults",1,3
+88,Manhattan,"Holiday Inn Express New York City Times Square, New York",HOTEL,110,3.0,778,3.9,"1 room, 3 adults",1,3
+89,Manhattan,"Cassa Hotel NY 45th Street, New York",HOTEL,180,4.0,1270,4.4,"1 room, 3 adults",1,3
+90,Manhattan,"New York Marriott East Side, New York",HOTEL,206,4.0,852,4.1,"1 room, 3 adults",1,3
+92,Manhattan,"The Kimberly Hotel, New York",HOTEL,218,4.0,1516,4.7,"1 room, 3 adults",1,3
+93,Manhattan,"The Lex NYC, New York",HOTEL,14,3.5,38,4.4,"1 room, 3 adults",1,3
+95,Manhattan,"The Mark, New York",HOTEL,65,5.0,17,4.8,"1 room, 3 adults",1,3
+96,Manhattan,"Hampton Inn Manhattan-Chelsea, New York",HOTEL,101,3.0,815,4.3,"1 room, 3 adults",1,3
+97,Manhattan,"Edge Hotel, New York",HOTEL,20,3.5,24,4.4,"1 room, 3 adults",1,3
+98,Manhattan,"Green Holidays Apartments, New York",HOTEL,4,3.5,37,3.1,"1 room, 3 adults",1,3
+99,Manhattan,"Stewart Hotel, New York",HOTEL,116,4.0,235,3.8,"1 room, 3 adults",1,3
+100,Manhattan,"Fifty Hotel & Suites by Affinia, New York",HOTEL,125,4.0,808,4.2,"1 room, 3 adults",1,3
+101,Manhattan,"Candlewood Suites New York City-Times Square, New York",HOTEL,115,3.0,45,4.1,"1 room, 3 adults",1,3
+102,Manhattan,"Shelburne Hotel & Suites by Affinia, New York",HOTEL,174,4.0,134,4.1,"1 room, 3 adults",1,3
+103,Manhattan,"Hilton New York Fashion District, New York",HOTEL,107,4.0,826,4.3,"1 room, 3 adults",1,3
+104,Manhattan,"Arlo SoHo, New York",HOTEL,144,4.0,116,4.4,"1 room, 3 adults",1,3
+105,Manhattan,"Hampton Inn Madison Square Garden Area Hotel, New York",HOTEL,110,3.0,781,4.3,"1 room, 3 adults",1,3
+106,Manhattan,"Duane Street Hotel Tribeca, New York",HOTEL,13,4.0,221,4.3,"1 room, 3 adults",1,3
+107,Manhattan,"Fitzpatrick Manhattan Hotel, New York",HOTEL,178,4.0,53,4.5,"1 room, 3 adults",1,3
+109,Manhattan,"Hotel Mulberry, New York",HOTEL,13,3.0,600,4.5,"1 room, 3 adults",1,3
+111,Manhattan,"DoubleTree by Hilton New York Times Square West, New York",HOTEL,5,4.0,1715,4.0,"1 room, 3 adults",1,3
+113,Manhattan,"WestHouse New York, New York",HOTEL,155,5.0,74,4.2,"1 room, 3 adults",1,3
+114,Manhattan,"Hotel On Rivington, New York",HOTEL,266,4.0,330,4.2,"1 room, 3 adults",1,3
+115,Manhattan,"Hilton Garden Inn New York/Midtown Park Ave, New York",HOTEL,100,3.5,66,4.4,"1 room, 3 adults",1,3
+116,Manhattan,"Homewood Suites New York/Midtown Manhattan Times Square, New York",HOTEL,12,3.5,1446,4.5,"1 room, 3 adults",1,3
+117,Manhattan,"The Langham, New York, Fifth Avenue, New York",HOTEL,401,5.0,548,4.7,"1 room, 3 adults",1,3
+119,Manhattan,"Hampton Inn Manhattan Grand Central, New York",HOTEL,114,3.0,436,4.4,"1 room, 3 adults",1,3
+120,Manhattan,"The Marcel at Gramercy, New York",HOTEL,12,4.0,73,4.1,"1 room, 3 adults",1,3
+122,Manhattan,"The Ridge Hotel, New York",HOTEL,104,3.0,234,4.2,"1 room, 3 adults",1,3
+123,Manhattan,"INNSIDE by MeliÃ  New York Nomad, New York",HOTEL,172,4.5,1472,4.4,"1 room, 3 adults",1,3
+125,Manhattan,"Hotel St. James, New York",HOTEL,231,2.5,3644,3.8,"1 room, 3 adults",1,3
+126,Manhattan,"Courtyard by Marriott New York Manhattan/Upper East Side, New York",HOTEL,11,3.5,1186,4.1,"1 room, 3 adults",1,3
+127,Manhattan,"Hotel Edison, New York",HOTEL,87,3.5,4500,3.8,"1 room, 3 adults",1,3
+128,Manhattan,"Courtyard by Marriott New York Manhattan / Central Park, New York",HOTEL,17,3.5,40,4.3,"1 room, 3 adults",1,3
+130,Manhattan,"Hotel Mimosa, New York",HOTEL,153,2.5,21,4.1,"1 room, 3 adults",1,3
+131,Manhattan,"YOTEL New York, New York",HOTEL,12,4.0,6367,4.2,"1 room, 3 adults",1,3
+132,Manhattan,"The Townhouse Inn of Chelsea, New York",HOTEL,1,3.5,321,4.5,"1 room, 3 adults",1,3
+134,Manhattan,"Hilton Garden Inn Times Square, New York",HOTEL,,3.5,133,4.3,"1 room, 3 adults",1,3
+136,Manhattan,"Residence Inn New York Manhattan/Central Park, New York",HOTEL,21,3.5,558,4.4,"1 room, 3 adults",1,3
+137,Manhattan,"Four Points by Sheraton Midtown-Times Square, New York",HOTEL,115,3.5,631,4.2,"1 room, 3 adults",1,3
+138,Manhattan,"Sanctuary NYC Retreats, New York",HOTEL,134,3.0,87,4.6,"1 room, 3 adults",1,3
+139,Manhattan,"Royalton Park Avenue, New York",HOTEL,150,5.0,618,4.3,"1 room, 3 adults",1,3
+140,Manhattan,"Roxy Hotel Tribeca, New York",HOTEL,21,4.5,841,4.5,"1 room, 3 adults",1,3
+143,Manhattan,"Marrakech Hotel New York City, New York",HOTEL,85,3.0,822,3.2,"1 room, 3 adults",1,3
+145,Manhattan,"Skyline Hotel, New York",HOTEL,158,3.0,880,4.0,"1 room, 3 adults",1,3
+148,Manhattan,"Club Quarters Hotel, Grand Central, New York",HOTEL,137,4.0,1208,4.4,"1 room, 3 adults",1,3
+150,Manhattan,"The Time New York, New York",HOTEL,15,4.5,722,4.2,"1 room, 3 adults",1,3
+152,Manhattan,"Hotel Giraffe by Library Hotel Collection, New York",HOTEL,251,4.0,316,4.8,"1 room, 3 adults",1,3
+154,Manhattan,"Baccarat Hotel and Residences New York, New York",HOTEL,45,5.0,10,4.7,"1 room, 3 adults",1,3
+157,Manhattan,"The Marmara Park Avenue, New York",HOTEL,23,5.0,380,4.4,"1 room, 3 adults",1,3
+158,Manhattan,"The Library Hotel by Library Hotel Collection, New York",HOTEL,287,4.0,265,4.8,"1 room, 3 adults",1,3
+162,Manhattan,"Hotel Wales, New York",HOTEL,183,3.5,371,4.1,"1 room, 3 adults",1,3
+164,Manhattan,"Aloft Harlem, New York",HOTEL,143,3.5,32,4.2,"1 room, 3 adults",1,3
+165,Manhattan,"DoubleTree by Hilton New York City - Chelsea, New York",HOTEL,103,4.0,1225,3.9,"1 room, 3 adults",1,3
+167,Manhattan,"Eurostars Wall Street, New York",HOTEL,103,4.0,347,3.7,"1 room, 3 adults",1,3
+168,Manhattan,"Holiday Inn Manhattan-Financial District, New York",HOTEL,5,4.0,1823,4.1,"1 room, 3 adults",1,3
+170,Manhattan,"Loews Regency New York Hotel, New York",HOTEL,45,5.0,635,4.5,"1 room, 3 adults",1,3
+171,Manhattan,"Warwick New York, New York",HOTEL,153,4.5,152,4.4,"1 room, 3 adults",1,3
+172,Manhattan,"Fairfield Inn & Suites New York Midtown Manhattan/Penn Station, New York",HOTEL,134,3.0,1131,4.4,"1 room, 3 adults",1,3
+174,Manhattan,"The High Line Hotel, New York",HOTEL,1,4.0,215,4.4,"1 room, 3 adults",1,3
+175,Manhattan,"Bentley Hotel, New York",HOTEL,12,4.0,134,3.9,"1 room, 3 adults",1,3
+180,Manhattan,"The Paul Hotel NYC-Chelsea, an Ascend Hotel Collection Member, New York",HOTEL,116,4.0,608,3.9,"1 room, 3 adults",1,3
+181,Manhattan,"Courtyard New York Manhattan/Times Square West, New York",HOTEL,111,3.5,727,4.5,"1 room, 3 adults",1,3
+182,Manhattan,"Hudson New York, Central Park, New York",HOTEL,14,4.0,2381,3.3,"1 room, 3 adults",1,3
+183,Manhattan,"The London NYC, New York",HOTEL,427,4.5,638,4.2,"1 room, 3 adults",1,3
+185,Manhattan,"AKA Times Square, New York",HOTEL,25,4.0,86,4.5,"1 room, 3 adults",1,3
+187,Manhattan,"Hotel Elysee by Library Hotel Collection, New York",HOTEL,212,4.0,305,4.7,"1 room, 3 adults",1,3
+189,Manhattan,"Hyatt House New York/Chelsea, New York",HOTEL,12,3.5,2,4.4,"1 room, 3 adults",1,3
+190,Manhattan,"Hyatt Centric Times Square New York, New York",HOTEL,21,4.5,1718,4.5,"1 room, 3 adults",1,3
+191,Manhattan,"Hampton Inn Manhattan/Times Square Central, New York",HOTEL,12,3.5,2213,4.6,"1 room, 3 adults",1,3
+193,Manhattan,"Room Mate Grace Boutique Hotel, New York",HOTEL,161,3.5,5,4.4,"1 room, 3 adults",1,3
+194,Manhattan,"Four Seasons Hotel New York, New York",HOTEL,115,5.0,5,4.6,"1 room, 3 adults",1,3
+195,Manhattan,"The Nolitan, New York",HOTEL,10,3.5,,4.3,"1 room, 3 adults",1,3
+197,Manhattan,"The Sohotel, New York",HOTEL,123,3.0,542,4.2,"1 room, 3 adults",1,3
+198,Manhattan,"Casablanca Hotel by Library Hotel Collection, New York",HOTEL,242,4.0,450,4.8,"1 room, 3 adults",1,3
+199,Manhattan,"The Evelyn Hotel, New York",HOTEL,143,4.0,773,4.1,"1 room, 3 adults",1,3
+200,Manhattan,"Mayfair New York, New York",HOTEL,123,3.0,1365,3.5,"1 room, 3 adults",1,3
+203,Manhattan,"Excelsior Hotel, New York",HOTEL,231,3.5,127,4.3,"1 room, 3 adults",1,3
+205,Manhattan,"Washington Jefferson Hotel, New York",HOTEL,137,3.5,751,3.7,"1 room, 3 adults",1,3
+208,Manhattan,"Econo Lodge Times Square, New York",HOTEL,110,2.5,48,3.7,"1 room, 3 adults",1,3
+211,Manhattan,"The Roosevelt Hotel, New York City, New York",HOTEL,134,4.0,823,3.4,"1 room, 3 adults",1,3
+212,Manhattan,"Harlem YMCA, New York",HOTEL,7,2.0,177,3.4,"1 room, 3 adults",1,3
+214,Manhattan,"Hotel Pennsylvania, New York",HOTEL,,2.5,6818,2.4,"1 room, 3 adults",1,3
+216,Manhattan,"AKA Wall Street, New York",HOTEL,225,4.0,315,4.7,"1 room, 3 adults",1,3
+217,Manhattan,"Park Central Hotel New York, New York",HOTEL,5,4.0,4203,3.9,"1 room, 3 adults",1,3
+220,Manhattan,"The Hotel 91, New York",HOTEL,151,3.0,00,3.8,"1 room, 3 adults",1,3
+221,Manhattan,"The NoMad Hotel, New York",HOTEL,35,5.0,36,4.7,"1 room, 3 adults",1,3
+224,Manhattan,"Wyndham Midtown 45 at New York City, New York",HOTEL,20,3.0,58,3.7,"1 room, 3 adults",1,3
+226,Manhattan,"The Ludlow Hotel, New York",HOTEL,325,4.5,311,4.7,"1 room, 3 adults",1,3
+228,Manhattan,"Hotel 309, New York",HOTEL,100,2.0,275,2.6,"1 room, 3 adults",1,3
+229,Manhattan,"Lotte New York Palace, New York",HOTEL,325,4.5,2142,4.6,"1 room, 3 adults",1,3
+233,Manhattan,"Wolcott Hotel, New York",HOTEL,250,2.5,375,4.1,"1 room, 3 adults",1,3
+235,Manhattan,"Broadway Plaza Hotel, New York",HOTEL,14,3.5,1127,4.3,"1 room, 3 adults",1,3
+236,Manhattan,"CITY ROOMS NYC - Chelsea, New York",HOTEL,134,2.0,166,3.7,"1 room, 3 adults",1,3
+238,Manhattan,"Empire Hotel, New York",HOTEL,175,4.0,2364,3.7,"1 room, 3 adults",1,3
+239,Manhattan,"Hotel 31, New York",HOTEL,106,2.0,107,4.0,"1 room, 3 adults",1,3
+240,Manhattan,"Arthouse Hotel New York City, New York",HOTEL,135,4.0,1862,4.3,"1 room, 3 adults",1,3
+242,Manhattan,"Marriott Vacation Club Pulse, New York City, New York",HOTEL,134,4.0,236,4.2,"1 room, 3 adults",1,3
+244,Manhattan,"The Gotham Hotel, New York",HOTEL,15,4.5,21,4.0,"1 room, 3 adults",1,3
+246,Manhattan,"Embassy Suites by Hilton New York Midtown Manhattan, New York",HOTEL,107,3.5,46,4.4,"1 room, 3 adults",1,3
+247,Manhattan,"Omni Berkshire Place, New York",HOTEL,17,4.5,1322,4.4,"1 room, 3 adults",1,3
+249,Manhattan,"Travel Inn Hotel, New York",HOTEL,160,2.5,1123,3.9,"1 room, 3 adults",1,3
+250,Manhattan,"NobleDEN Hotel, New York",HOTEL,14,4.0,885,4.7,"1 room, 3 adults",1,3
+251,Manhattan,"East Village Hotel, New York",HOTEL,188,3.0,11,4.1,"1 room, 3 adults",1,3
+252,Manhattan,"The Westin New York at Times Square, New York",HOTEL,175,4.5,2108,4.2,"1 room, 3 adults",1,3
+256,Manhattan,"The Knickerbocker Hotel, New York",HOTEL,236,5.0,1227,4.5,"1 room, 3 adults",1,3
+257,Manhattan,"Mandarin Oriental, New York, New York",HOTEL,85,5.0,106,4.6,"1 room, 3 adults",1,3
+258,Manhattan,"Club Quarters Hotel, World Trade Center, New York",HOTEL,143,4.0,28,4.4,"1 room, 3 adults",1,3
+261,Manhattan,"Dream Downtown, New York",HOTEL,150,4.5,76,3.8,"1 room, 3 adults",1,3
+263,Manhattan,"AKA Tribeca, New York",HOTEL,224,4.0,241,4.5,"1 room, 3 adults",1,3
+265,Manhattan,"Midtown Convention Center Hotel, New York",HOTEL,184,3.0,346,3.0,"1 room, 3 adults",1,3
+268,Manhattan,"The James New York- SoHo, New York",HOTEL,253,4.5,310,4.1,"1 room, 3 adults",1,3
+269,Manhattan,"6 Columbus Central Park a Sixty Hotel, New York",HOTEL,10,4.5,240,3.8,"1 room, 3 adults",1,3
+270,Manhattan,"Millennium Times Square New York, New York",HOTEL,180,4.0,3365,3.8,"1 room, 3 adults",1,3
+271,Manhattan,"U Hotel Fifth Avenue, New York",HOTEL,10,3.0,352,4.0,"1 room, 3 adults",1,3
+274,Manhattan,"New World Hotel, New York",HOTEL,71,1.5,574,1.8,"1 room, 3 adults",1,3
+276,Manhattan,"Aloft Manhattan Downtown - Financial District, New York",HOTEL,10,3.0,300,4.4,"1 room, 3 adults",1,3
+277,Manhattan,"Salisbury Hotel, New York",HOTEL,88,3.0,5038,3.7,"1 room, 3 adults",1,3
+280,Manhattan,"The Bowery House, New York",HOTEL,10,2.0,25,3.1,"1 room, 3 adults",1,3
+281,Manhattan,"Flatiron Hotel, New York",HOTEL,14,4.0,372,3.3,"1 room, 3 adults",1,3
+282,Manhattan,"Days Hotel by Wyndham on Broadway NYC, New York",HOTEL,7,2.5,1641,2.9,"1 room, 3 adults",1,3
+283,Manhattan,"Carvi Hotel New York, New York",HOTEL,11,3.0,214,4.2,"1 room, 3 adults",1,3
+285,Manhattan,"Hotel Boutique at Grand Central, New York",HOTEL,137,4.0,100,4.4,"1 room, 3 adults",1,3
+288,Manhattan,"The Wall Street Inn, New York",HOTEL,134,3.0,418,4.4,"1 room, 3 adults",1,3
+289,Manhattan,"San Carlos Hotel, New York",HOTEL,184,4.5,63,4.5,"1 room, 3 adults",1,3
+294,Manhattan,"Courtyard by Marriott New York City Manhattan Midtown East, New York",HOTEL,,3.5,1826,4.4,"1 room, 3 adults",1,3
+297,Manhattan,"Four Points by Sheraton Manhattan SoHo Village, New York",HOTEL,10,3.5,34,4.1,"1 room, 3 adults",1,3
+303,Manhattan,"Off Soho Suites Hotel, New York",HOTEL,17,2.0,375,3.7,"1 room, 3 adults",1,3
+306,Manhattan,"World Center Hotel, New York",HOTEL,14,4.0,1313,4.3,"1 room, 3 adults",1,3
+311,Manhattan,"Fitzpatrick Grand Central, New York",HOTEL,158,4.0,832,4.4,"1 room, 3 adults",1,3
+319,Manhattan,"The Jewel facing Rockefeller Center, New York",HOTEL,161,4.0,202,4.4,"1 room, 3 adults",1,3
+323,Manhattan,"citizenM New York Times Square, New York",HOTEL,174,4.0,1145,4.7,"1 room, 3 adults",1,3
+324,Manhattan,"Avalon Hotel, New York",HOTEL,135,4.0,700,4.2,"1 room, 3 adults",1,3
+325,Manhattan,"Hilton Garden Inn New York/Manhattan-Midtown East, New York",HOTEL,11,3.5,736,4.3,"1 room, 3 adults",1,3
+326,Manhattan,"Viceroy Central Park New York, New York",HOTEL,20,4.0,687,3.9,"1 room, 3 adults",1,3
+327,Manhattan,"The Pearl New York, New York",HOTEL,152,4.0,116,4.6,"1 room, 3 adults",1,3
+328,Manhattan,"TRYP By Wyndham Times Square South, New York",HOTEL,124,4.5,1235,4.1,"1 room, 3 adults",1,3
+330,Manhattan,"The Mansfield Hotel, New York",HOTEL,8,3.5,825,3.5,"1 room, 3 adults",1,3
+331,Manhattan,"Dream Midtown, New York",HOTEL,150,4.0,57,4.1,"1 room, 3 adults",1,3
+332,Manhattan,"Trump International Hotel & Tower New York, New York",HOTEL,524,5.0,53,4.6,"1 room, 3 adults",1,3
+333,Manhattan,"Life Hotel NoMad, New York",HOTEL,125,4.0,433,4.0,"1 room, 3 adults",1,3
+334,Manhattan,"The Westin New York Grand Central, New York",HOTEL,125,4.5,138,4.2,"1 room, 3 adults",1,3
+335,Manhattan,"Hyatt Place New York Midtown South, New York",HOTEL,12,3.5,885,4.4,"1 room, 3 adults",1,3
+337,Manhattan,"Q&A Residential Hotel, New York",HOTEL,224,4.0,66,4.7,"1 room, 3 adults",1,3
+339,Manhattan,"Kimpton Hotel Eventi, New York",HOTEL,18,5.0,1064,4.5,"1 room, 3 adults",1,3
+340,Manhattan,"Best Western Bowery Hanbee Hotel, New York",HOTEL,104,3.0,758,4.2,"1 room, 3 adults",1,3
+341,Manhattan,"Holiday Inn Express - New York City Chelsea, New York",HOTEL,114,3.0,51,4.1,"1 room, 3 adults",1,3
+343,Manhattan,"Park Hyatt New York, New York",HOTEL,85,5.0,83,4.4,"1 room, 3 adults",1,3
+344,Manhattan,"Blue Moon Boutique Hotel, New York",HOTEL,24,3.0,335,3.4,"1 room, 3 adults",1,3
+345,Manhattan,"Cachet Boutique New York, New York",HOTEL,170,4.0,57,3.9,"1 room, 3 adults",1,3
+347,Manhattan,"AKA Central Park, New York",HOTEL,575,4.0,216,4.4,"1 room, 3 adults",1,3
+348,Manhattan,"Renaissance New York Times Square Hotel, New York",HOTEL,178,4.0,477,4.4,"1 room, 3 adults",1,3
+349,Manhattan,"Fairfield Inn & Suites by Marriott New York ManhattanChelsea, New York",HOTEL,104,3.0,303,4.3,"1 room, 3 adults",1,3
+350,Manhattan,"Renaissance New York Midtown Hotel, New York",HOTEL,237,4.0,51,4.6,"1 room, 3 adults",1,3
+353,Manhattan,"Leon Hotel, New York",HOTEL,120,3.5,256,4.3,"1 room, 3 adults",1,3
+354,Manhattan,"West 57th Street by Hilton Club, New York",HOTEL,542,4.0,16,4.6,"1 room, 3 adults",1,3
+356,Manhattan,"Hotel Americano, New York",HOTEL,20,4.5,127,3.9,"1 room, 3 adults",1,3
+359,Manhattan,"Hotel 50 Bowery NYC, New York",HOTEL,18,4.5,865,4.6,"1 room, 3 adults",1,3
+363,Manhattan,"Gild Hall, A Thompson Hotel, New York",HOTEL,18,4.5,581,4.6,"1 room, 3 adults",1,3
+366,Manhattan,"Hotel Beacon, New York",HOTEL,321,4.0,1132,4.5,"1 room, 3 adults",1,3
+368,Manhattan,"St Marks Hotel, New York",HOTEL,136,3.0,354,3.1,"1 room, 3 adults",1,3
+369,Manhattan,"The Kitano Hotel New York, New York",HOTEL,274,4.5,833,4.5,"1 room, 3 adults",1,3
+370,Manhattan,"CITY ROOMS NYC - Soho, New York",HOTEL,,2.5,231,4.3,"1 room, 3 adults",1,3
+371,Manhattan,"SIXTY Lower East Side, New York",HOTEL,10,4.5,376,4.0,"1 room, 3 adults",1,3
+372,Manhattan,"The Lexington Hotel, Autograph Collection, New York",HOTEL,140,4.0,181,4.2,"1 room, 3 adults",1,3
+373,Manhattan,"The Hilton Club - New York, New York",HOTEL,42,4.0,43,4.3,"1 room, 3 adults",1,3
+375,Manhattan,"Holiday Inn NYC - Lower East Side, New York",HOTEL,6,4.0,331,4.3,"1 room, 3 adults",1,3
+376,Manhattan,"The Kimpton Muse Hotel, New York",HOTEL,17,4.5,726,4.6,"1 room, 3 adults",1,3
+380,Manhattan,"Chelsea Savoy Hotel, New York",HOTEL,235,2.0,1365,4.1,"1 room, 3 adults",1,3
+381,Manhattan,"Hotel Mela Times Square, New York",HOTEL,,4.0,2037,3.9,"1 room, 3 adults",1,3
+382,Manhattan,"The Shoreham Hotel, New York",HOTEL,143,4.0,754,3.7,"1 room, 3 adults",1,3
+383,Manhattan,"New York Marriott Marquis, New York",HOTEL,220,4.5,3182,4.4,"1 room, 3 adults",1,3
+384,Manhattan,"Millennium Premier New York Times Square, New York",HOTEL,185,4.0,1260,4.2,"1 room, 3 adults",1,3
+387,Manhattan,"W New York - Times Square, New York",HOTEL,21,4.5,848,4.1,"1 room, 3 adults",1,3
+389,Manhattan,"Sheraton Tribeca New York Hotel, New York",HOTEL,107,4.0,87,4.0,"1 room, 3 adults",1,3
+393,Manhattan,"Row NYC, New York",HOTEL,8,4.0,5653,3.4,"1 room, 3 adults",1,3
+399,Manhattan,"Hotel Plaza Athenee, New York",HOTEL,53,5.0,544,4.4,"1 room, 3 adults",1,3
+400,Manhattan,"Chelsea Inn, New York",HOTEL,85,3.0,543,3.7,"1 room, 3 adults",1,3
+402,Manhattan,"Comfort Inn Times Square West, New York",HOTEL,123,2.5,823,3.9,"1 room, 3 adults",1,3
+403,Manhattan,"The Bernic Hotel New York City, Tapestry Collection by Hilton, New York",HOTEL,116,4.0,475,4.5,"1 room, 3 adults",1,3
+404,Manhattan,"Residence Inn by Marriott New York Manhattan/Times Square, New York",HOTEL,16,3.5,700,4.3,"1 room, 3 adults",1,3
+410,Manhattan,"Archer Hotel New York, New York",HOTEL,1,4.5,1256,4.7,"1 room, 3 adults",1,3
+412,Manhattan,"The Quin Central Park by Hilton Club, New York",HOTEL,377,5.0,448,4.4,"1 room, 3 adults",1,3
+417,Manhattan,"Sheraton New York Times Square Hotel, New York",HOTEL,16,4.0,2553,3.9,"1 room, 3 adults",1,3
+418,Manhattan,"Macy Empire Apartments, New York",HOTEL,210,3.5,5,3.0,"1 room, 3 adults",1,3
+420,Manhattan,"Colonial House Inn, New York",HOTEL,177,3.0,72,3.8,"1 room, 3 adults",1,3
+423,Manhattan,"255West Guesthouse, New York",HOTEL,15,3.5,74,4.5,"1 room, 3 adults",1,3
+425,Manhattan,"Hilton Garden Inn New York/Central Park South-Midtown West, New York",HOTEL,10,3.5,1385,4.3,"1 room, 3 adults",1,3
+429,Manhattan,"Four Points by Sheraton Manhattan - Chelsea, New York",HOTEL,,3.0,521,4.2,"1 room, 3 adults",1,3
+430,Manhattan,"The Gallivant Times Square , New York",HOTEL,10,3.5,1382,3.7,"1 room, 3 adults",1,3
+433,Manhattan,"3 West Club, New York",HOTEL,15,3.5,233,4.1,"1 room, 3 adults",1,3
+434,Manhattan,"Conrad New York, New York",HOTEL,27,5.0,775,4.8,"1 room, 3 adults",1,3
+435,Manhattan,"Crowne Plaza Times Square Manhattan, New York",HOTEL,105,4.0,3824,4.2,"1 room, 3 adults",1,3
+436,Manhattan,"Bowery Grand Hotel, New York",HOTEL,77,1.0,265,2.2,"1 room, 3 adults",1,3
+437,Manhattan,"Blakely New York, New York",HOTEL,225,4.5,718,4.4,"1 room, 3 adults",1,3
+439,Manhattan,"Pod 51, New York",HOTEL,12,3.0,3427,4.0,"1 room, 3 adults",1,3
+441,Manhattan,"Park West Hotel, New York",HOTEL,0,3.0,412,3.2,"1 room, 3 adults",1,3
+442,Manhattan,"The Standard East Village, New York",HOTEL,15,4.0,368,4.4,"1 room, 3 adults",1,3
+443,Manhattan,"Casamia 36 Hotel, New York",HOTEL,146,3.0,361,3.7,"1 room, 3 adults",1,3
+446,Manhattan,"The Frederick Hotel, New York",HOTEL,127,4.0,47,4.3,"1 room, 3 adults",1,3
+450,Manhattan,"Hotel Indigo Lower East Side New York, New York",HOTEL,178,4.5,771,4.4,"1 room, 3 adults",1,3
+451,Manhattan,"Hotel 32 32, New York",HOTEL,124,4.0,1330,4.0,"1 room, 3 adults",1,3
+452,Manhattan,"Hudson River Hotel, New York",HOTEL,10,2.5,315,3.7,"1 room, 3 adults",1,3
+455,Manhattan,"Club Quarters Hotel, opposite Rockefeller Center, New York",HOTEL,151,4.0,1651,4.1,"1 room, 3 adults",1,3
+456,Manhattan,"Clarion Hotel Park Avenue, New York",HOTEL,1,2.5,6,3.7,"1 room, 3 adults",1,3
+457,Manhattan,"Night Hotel Theater District, Times Square, New York",HOTEL,12,4.0,558,3.8,"1 room, 3 adults",1,3
+460,Manhattan,"The Gregory Hotel, New York",HOTEL,135,4.0,100,4.0,"1 room, 3 adults",1,3
+461,Manhattan,"414 Hotel, New York",HOTEL,26,3.5,0,4.8,"1 room, 3 adults",1,3
+462,Manhattan,"Soho Grand Hotel, New York",HOTEL,1,4.5,75,4.4,"1 room, 3 adults",1,3
+465,Manhattan,"Hilton Garden Inn New York/Manhattan-Chelsea, New York",HOTEL,157,3.5,68,4.3,"1 room, 3 adults",1,3
+466,Manhattan,"Washington Square Hotel, New York",HOTEL,308,3.5,333,4.4,"1 room, 3 adults",1,3
+470,Manhattan,"The Marmara Manhattan, New York",HOTEL,286,3.5,335,4.2,"1 room, 3 adults",1,3
+475,Manhattan,"The Inn at Irving Place, New York",HOTEL,25,4.0,111,4.5,"1 room, 3 adults",1,3
